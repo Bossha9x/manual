@@ -9,14 +9,15 @@ Ví dụ: Bạn có 2 kho, muốn chuyển bớt 3 chiếc 'Quần HM 001 - Đen
 - Điền thông và ấn nút "Lưu" hoặc "Lưu và In"
 
 ## Hệ thống sẽ sinh ra:
-- 1 phiếu Xuất [chuyển kho] từ kho A --> kho B. Số tồn ở kho A giảm 3, tuy nhiên số tồn ở kho B chưa tăng. 3 sản phẩm này ở trạng thái Đang chuyển kho
-![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/phieu-yeu-cau-ck.png)
+- 1 phiếu Xuất [chuyển kho] từ kho Thái Hà --> kho Chùa Bộc. Số tồn ở kho A giảm 3, tuy nhiên số tồn ở kho Chùa Bộc chưa tăng. 3 sản phẩm này ở trạng thái Đang chuyển kho
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/phieu-yeu-cau-ck1.jpg)
 
 - 1 phiếu yêu cầu Xuất [chuyển kho].
 
 ## Bước 2: Sau khi nhận được hàng, Kho B cần xác nhận phiếu này (Tại [Sắp chuyển đến](https://new.nhanh.vn/inventory/transfer/draft?tab=waitingConfirm))
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/phieu-xac-nhan-ck1.png)
+
 ## Bước 3: Sau khi xác nhận phiếu, hệ thống sẽ chuyển sang giao diện xác nhận chuyển kho. Điền số lượng hàng xác nhận chuyển kho và ấn nút Lưu hoặc Lưu và In
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/giao-dien-xac-nhan-phieu-ck%201.png)
 
