@@ -67,6 +67,7 @@ Hoặc anh/chị truy cập vào module đơn hàng/ Đối soát l Thanh toán/
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/doi-soat-don-hang-8.png)
 
 **Bước 3: Chọn tài khoản nhận tiền (với doanh nghiệp dùng kế toán), ngày đối soát, và điền ghi chú (nếu có).**
+
 **Bước 4: Tải file Import đã nhập liệu lên hệ thống và theo dõi tiến độ import đến khi đạt 100%.**
 
 Sau khi upload thành công (hay thất bại) hệ thống sẽ thông báo tới doanh nghiệp. Trường hợp thành công, doanh nghiệp kiểm tra lại chi tiết đối soát vừa Import tại Đối soát tự vận chuyển [tại đây](https://new.nhanh.vn/order/manage/payment).
