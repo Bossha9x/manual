@@ -33,27 +33,27 @@ Tham khảo hướng dẫn [tại đây](link).
 
 Tình huống:
 
-- Đơn hàng có giá trị 230.000 VNĐ
+- Đơn hàng có giá trị 200.000 VNĐ
 
-- Phí vận chuyển: 40.000 VNĐ
+- Phí vận chuyển: 15.000 VNĐ
 
 - Phí ship báo khách: 30.000 VNĐ
 
-![](link)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/doi-soat-don-hang-4.png)
 
 Khi đơn hàng thành công, doanh nghiệp tự đổi trạng thái thành công cho đơn hàng.
 
 Khi có file excel đối soát đơn hàng của hãng vận chuyển, doanh nghiệp làm đối soát đơn hàng cho các đơn trên Nhanh.vn như sau:
 
-**Bước 1: Truy cập vào module Đơn hàng / Thao tác / Thêm đối soát đơn tự vận chuyển, hoặc truy cập [tại đây](link).**
+**Bước 1: Truy cập vào module Đơn hàng / Thao tác / Thêm đối soát đơn tự vận chuyển, hoặc truy cập [tại đây](https://new.nhanh.vn/order/manage/payment).**
 
-![](link)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/doi-soat-don-hang-7.png)
 
 Hoặc anh/chị truy cập vào module đơn hàng/ Đối soát l Thanh toán/ Đối soát tự vận chuyển/ Thêm đối soát.
 
-![](link)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/doi-soat-don-hang-5.png)
 
-![](link)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/doi-soat-don-hang-6.png)
 
 **Bước 2: Tải file import về rồi điền các thông tin, sau đó lưu file excel lại.**
 - ID đơn hàng: ID trên Nhanh.vn của đơn hàng muốn đối soát.
@@ -64,12 +64,12 @@ Hoặc anh/chị truy cập vào module đơn hàng/ Đối soát l Thanh toán/
 
 - Tổng thu: Tổng tiền thu của người nhận hàng.
 
-![](link)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/doi-soat-don-hang-8.png)
 
 **Bước 3: Chọn tài khoản nhận tiền (với doanh nghiệp dùng kế toán), ngày đối soát, và điền ghi chú (nếu có).**
 **Bước 4: Tải file Import đã nhập liệu lên hệ thống và theo dõi tiến độ import đến khi đạt 100%.**
 
-Sau khi upload thành công (hay thất bại) hệ thống sẽ thông báo tới doanh nghiệp. Trường hợp thành công, doanh nghiệp kiểm tra lại chi tiết đối soát vừa Import tại Đối soát tự vận chuyển [tại đây](link).
+Sau khi upload thành công (hay thất bại) hệ thống sẽ thông báo tới doanh nghiệp. Trường hợp thành công, doanh nghiệp kiểm tra lại chi tiết đối soát vừa Import tại Đối soát tự vận chuyển [tại đây](https://new.nhanh.vn/order/manage/payment).
 
 Các bút toán hệ thống sẽ tự sinh sau khi import file đối soát, doanh nghiệp tham khảo [Tại đây](link).
 
@@ -77,15 +77,15 @@ Khi đơn hàng Thành công: Hệ thống tự tạo các hạch toán:
 
 - Phiếu xuất ghi nhận giá vốn của sản phẩm - hạch toán Nợ 632, Có 1561, gắn theo chứng từ ID phiếu Xuất giao hàng.
 
-- Phiếu bán hàng ghi nhận giá trị của đơn hàng (hiện chưa bao gồm phí thu của khách) là 500.000 - hạch toán Nợ 131, Có 5111, gắn theo chứng từ ID phiếu Xuất giao hàng.
+- Phiếu bán hàng ghi nhận giá trị của đơn hàng (hiện chưa bao gồm phí thu của khách) là 200.000 - hạch toán Nợ 131, Có 5111, gắn theo chứng từ ID phiếu Xuất giao hàng.
 
 Khi đối soát đơn hàng: Hệ thống tự tạo các hạch toán:
 
 - Phiếu thu Nợ 131, Có 711 = Phí thu của khách (phí vận chuyển doanh nghiệp sẽ tính theo khách hàng), gắn theo ID chứng từ đơn hàng, đối tượng là khách hàng.
 
-=> Công nợ khách hàng = Giá trị đơn hàng + phí thu của khách = 230.000 + 30.000 = 260.000
+=> Công nợ khách hàng = Giá trị đơn hàng + phí thu của khách = 200.000 + 30.000 = 230.000
 
-- Phiếu Báo có (Nộp tiền) hạch toán tiền khách thanh toán: Nợ 1121, Có 131 = Số tiền cần thanh toán còn lại của khách hàng (260.000), gắn theo ID chứng từ đơn hàng và đối tượng là khách hàng.
+- Phiếu Báo có (Nộp tiền) hạch toán tiền khách thanh toán: Nợ 1121, Có 131 = Số tiền cần thanh toán còn lại của khách hàng (230.000), gắn theo ID chứng từ đơn hàng và đối tượng là khách hàng.
 
 - Phiếu Báo nợ (Rút tiền) hạch toán chi tiền thanh toán phí vận chuyển: Nợ 811, Có 1121 = Số tiền doanh nghiệp thanh toán tiền vận chuyển, không gắn đối tượng.
 
