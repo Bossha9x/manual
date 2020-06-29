@@ -48,13 +48,13 @@ Bộ lọc đầy đủ có giao diện như sau:
 
 ## Nhóm theo Thông tin vận chuyển
 - **Hãng vận chuyển:** Lọc đơn hàng theo các hãng vận chuyển hoặc đơn hàng do doanh nghiệp tự vận chuyển.
-- **Trạng thái:** Lọc theo các trạng thái của đơn hàng (Mới, Đang chuyển, Thành công...), doanh nghiệp có thể xem thêm ý nghĩa của các trạng thái đơn hàng [tại đây](link).
+- **Trạng thái:** Lọc theo các trạng thái của đơn hàng (Mới, Đang chuyển, Thành công...), doanh nghiệp có thể xem thêm ý nghĩa của các trạng thái đơn hàng [tại đây](https://manual.nhanh.vn/don-hang/danh-sach-don-hang#trang-thai-don-hang).
 - **Mã vận đơn:** Lọc theo mã vận đơn của đơn hàng, mã này do mỗi hãng vận chuyển quy định
 - **ID Biên bản bàn giao:** Lọc theo ID của biên bản bàn giao vận đơn
 - **Loại chuyển hàng:** Lọc theo kiểu chuyển hàng: Chuyển hàng tận nhà, Đổi sản phẩm, Khách trả lại hàng
   - Chuyển hàng tận nhà: Loại đơn này dùng để ghi nhận việc doanh nghiệp giao hàng cho khách.
   - Đổi sản phẩm: Loại đơn này dùng khi người mua đã gửi trả lại hàng cũ/hàng lỗi cho người bán, đơn hàng này được dùng để ghi nhận việc người bán giao lại hàng mới cho khách hàng.
-  - Hàng chuyển kho: *(Đang cập nhật định nghĩa)*
+  - Hàng chuyển kho: Loại đơn này dùng khi người bán muốn chuyển sản phẩm sang kho khác 
 - **Khách trả lại hàng:** Loại đơn này dùng để ghi nhận việc khách trả lại sản phẩm đã mua.
 - **Phương thức thanh toán:** Lọc theo phương thức thanh toán: Thanh toán tại nhà, thanh toán tại quầy, qua cổng thanh toán...
 - **Người tạo:** Lọc theo tên người tạo
@@ -66,7 +66,8 @@ Bộ lọc đầy đủ có giao diện như sau:
   - Chưa bàn giao: Doanh nghiệp chưa bán giao đơn hàng cho hãng vận chuyển.
   - Đã bàn giao chuyển hoàn: Hãng vận chuyển chưa bàn giao và chuyển hoàn lại đơn hàng cho doanh nghiệp.
   - Chưa bàn giao chuyển hoàn: Hãng vận chuyển đã bàn giao và chuyển hoàn đơn hàng cho doanh nghiệp.
-  - Đã cho vào tour: *(Đang cập nhật định nghĩa)*
+  - Đã cho vào tour: 
+
 - **Chuyển tiền:** Lọc đơn hàng theo trạng thái thanh toán, đã được Nhanh.vn thanh toán tiền thu hộ cho doanh nghiệp hay chưa, bao gồm:
   - Đã chuyển tiền: Đơn hàng đã được Nhanh.vn thanh toán tiền thu hộ cho doanh nghiệp
   - Chưa chuyển tiền: Đơn hàng chưa được Nhanh.vn thanh toán tiền thu hộ cho doanh nghiệp
