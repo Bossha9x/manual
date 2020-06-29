@@ -22,6 +22,6 @@ Ví dụ: Bạn có 2 kho, muốn chuyển bớt 3 chiếc 'Quần HM 001 - Đen
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/xac-nhan-ck1.png)
 
 ## Bước 4: hệ thống tự tạo 1 phiếu Nhập [chuyển kho] để tăng số tồn ở của kho B thêm 3.
-![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/phieu-chuyen-kho-tu-kho-A-sang-B.png)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/phieu-ck-tu-A-sang-B.jpg)
 Bạn có thể tham khảo video hướng dẫn sử dụng tại đây:
 
