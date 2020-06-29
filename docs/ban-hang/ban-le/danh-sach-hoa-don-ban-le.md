@@ -37,31 +37,23 @@ Nhân viên bán hàng | Lọc theo tên nhân viên phụ trách bán hàng,tư
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/ban-hang/img/danh-sach-hoa-don-ban-le.png)
 
 
-Hiển thị thông tin các hóa đơn bán lẻ của doanh nghiệp. Bảng này gồm các cột:
+Hiển thị thông tin các hóa đơn bán lẻ của doanh nghiệp.
 
-Người tạo - thời gian: Hiển thị ngày lập hóa đơn bán lẻ và tên người lập hóa đơn (cũng chính là tên Nhân viên thu ngân) hoặc 1 tài khoản được phân quyền như thu ngân.
-
-ID: Hiển thị ID của hóa đơn bán lẻ. Khi click vào ID, hệ thống chuyển sang trang chi tiết hóa đơn bán lẻ đó.
-
-Khách hàng: Hiển thị tên và số điện thoại của khách hàng trên hóa đơn bán lẻ.
-
-Sản phẩm: Hiển thị tên và mã sản phẩm trong hóa đơn bán lẻ hoặc IMEI nếu như là sản phẩm IMEI.
-
-Giá: Hiển thị giá bán của từng đơn vị sản phẩm trong hóa đơn bán lẻ (chưa gồm VAT).
-
-SL: Hiển thị số lượng sản phẩm bán trong hóa đơn bán lẻ.
-
-VAT: Hiển thị giá VAT phải trả của từng đơn vị sản phẩm trong hóa đơn bán lẻ. Giá sau VAT được tính = Giá đơn vị sản phẩm * % VAT * số lượng đơn vị sản phẩm trong hóa đơn bán lẻ.
-
-Chiết khấu: Hiển thị số tiền và số % chiết khấu cho hóa đơn bán lẻ .
-
-Tổng tiền: Tổng tiền khách hàng phải thanh toán (sau khi đã trừ chiết khấu, tiền tích điểm,..).
-
-Thanh toán: Hiển thi số tiền khách thanh toán và hình thức thanh toán (tiền mặt, chuyển khoản, quẹt thẻ, trả góp...).
-
-Mô tả: Hiển thị thông tin khuyến mãi, tặng điểm tích lũy, Vpoint; mô tả thêm của nhân viên bán hàng/ nhân viên thu ngân.
-
-In: Cho phép người dùng nhấp chuột vào biểu tượng ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/ban-hang/img/may-in.png)  để in hóa đơn bán lẻ.
+Bảng này gồm các cột:
+Tên | Ý nghĩa
+------|---------
+Người tạo - thời gian | Hiển thị ngày lập hóa đơn bán lẻ và tên người lập hóa đơn (cũng chính là tên Nhân viên thu ngân) hoặc 1 tài khoản được phân quyền như thu ngân.
+ID | Hiển thị ID của hóa đơn bán lẻ. Khi click vào ID, hệ thống chuyển sang trang chi tiết hóa đơn bán lẻ đó.
+Khách hàng | Hiển thị tên và số điện thoại của khách hàng trên hóa đơn bán lẻ.
+Sản phẩm | Hiển thị tên và mã sản phẩm trong hóa đơn bán lẻ hoặc IMEI nếu như là sản phẩm IMEI.
+Giá | Hiển thị giá bán của từng đơn vị sản phẩm trong hóa đơn bán lẻ (chưa gồm VAT).
+SL | Hiển thị số lượng sản phẩm bán trong hóa đơn bán lẻ.
+VAT | Hiển thị giá VAT phải trả của từng đơn vị sản phẩm trong hóa đơn bán lẻ. Giá sau VAT được tính = Giá đơn vị sản phẩm * % VAT * số lượng đơn vị sản phẩm trong hóa đơn bán lẻ.
+Chiết khấu | Hiển thị số tiền và số % chiết khấu cho hóa đơn bán lẻ .
+Tổng tiền | Tổng tiền khách hàng phải thanh toán (sau khi đã trừ chiết khấu, tiền tích điểm,..).
+Thanh toán | Hiển thi số tiền khách thanh toán và hình thức thanh toán (tiền mặt, chuyển khoản, quẹt thẻ, trả góp...).
+Mô tả | Hiển thị thông tin khuyến mãi, tặng điểm tích lũy, Vpoint; mô tả thêm của nhân viên bán hàng/ nhân viên thu ngân.
+In | Cho phép người dùng nhấp chuột vào biểu tượng ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/ban-hang/img/may-in.png)  để in hóa đơn bán lẻ.
 
 
 Ở hàng cuối cùng của bảng là hàng tính tổng số lượng sản phẩm, tổng VAT, tổng tiền chiết khấu, tổng tiền phải thu, tổng tiền thanh toán và tổng số tiền còn nợ của tất cả các hóa đơn bán lẻ của doanh nghiệp.
