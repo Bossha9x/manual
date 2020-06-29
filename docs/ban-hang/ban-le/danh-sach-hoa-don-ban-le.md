@@ -64,7 +64,7 @@ In | Cho phép người dùng nhấp chuột vào biểu tượng ![](https://ra
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/ban-hang/img/chi-tiet-hoa-don-ban-le.png)
 
 
-Thông tin chi tiết của hóa đơn bán lẻ gồm các phần : Thông tin hóa đơn, Lịch sử sửa đổi, Hóa đơn trả hàng. Click vào từng tab để xem thêm.
+Thông tin chi tiết của hóa đơn bán lẻ gồm các phần : Thông tin hóa đơn, Lịch sử sửa đổi, Hóa đơn trả hàng. Nhấp chuột vào từng tab để xem thêm.
 
 Thông tin hóa đơn: Hiển thị các thông tin chi tiết về hóa đơn trả hàng đó, tại tab này, bạn có thể thực hiện một số thao tác sau:
 
