@@ -7,11 +7,11 @@ Sau khi tạo đơn hàng, nhân viên telesale sẽ gọi điện cho khách đ
 
 - Mặc định hệ thống sẽ lọc đơn trong 2 ngày gần nhất. Bạn có thể chọn lại khoảng ngày này.
 
-Liệt kê tất cả các đơn hàng cần xác nhận: Tại [Danh sách đơn hàng](https://new.nhanh.vn/order/manage/index). Click vào tab ![xac nhan don hang](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/xac-nhan-don-hang-1.png). Hệ thống sẽ hiển thị ra tất cả những đơn hàng cần xác nhận.
+Liệt kê tất cả các đơn hàng cần xác nhận: Tại [Danh sách đơn hàng](https://new.nhanh.vn/order/manage/index). bấm vào tab ![xac nhan don hang](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/xac-nhan-don-hang-1.png). Hệ thống sẽ hiển thị ra tất cả những đơn hàng cần xác nhận.
 
-Nhân viên click vào những đơn hàng Mới (chưa có ai xác nhận) và những đơn hàng Chờ khách xác nhận (chưa gọi được cho khách) để xác nhận các đơn hàng đó.
+Nhân viên bấm vào những đơn hàng Mới (chưa có ai xác nhận) và những đơn hàng Chờ khách xác nhận (chưa gọi được cho khách) để xác nhận các đơn hàng đó.
 
-Lưu ý: Khi 1 nhân viên click vào đơn hàng để xác nhận, hệ thống sẽ chặn không cho nhân viên khác xác nhận đơn hàng đó ==> loại bỏ tình huống nhân viên xác nhận trùng khách.
+Lưu ý: Khi 1 nhân viên bấm vào đơn hàng để xác nhận, hệ thống sẽ chặn không cho nhân viên khác xác nhận đơn hàng đó ==> loại bỏ tình huống nhân viên xác nhận trùng khách.
 
 **Bước 2:** Giao diện làm việc của module Xác nhận đơn hàng như sau. Ở khâu thao tác này, nhân viên chăm sóc khách hàng (CSKH) của doanh nghiệp cần xác nhận với khách hàng tất cả thông tin về đơn hàng và thay đổi trạng thái đơn hàng.
 
@@ -35,7 +35,7 @@ Trong khi xác nhận đơn hàng, nhân viên CSKH cần kiểm tra về số l
 - Nếu sản phẩm tại kho đặt hàng đang tạm hết hàng, các kho khác vẫn còn hàng, cần chuyển kho đặt hàng hoặc điều chuyển sản phẩm từ kho đó về kho đăng ký đặt hàng.
 - Nếu sản phẩm hết hàng toàn bộ, nhân viên CSKH cần xác nhận với khách hàng hoặc gửi SMS thông báo cho khách hàng biết để khách chuyển sang sản phẩm khác.
 
-**Bước 3:** Sau khi hoàn tất các khâu xác nhận ở trên, nhân viên CSKH click nút **Lưu** hoặc **Lưu và in** để hoàn tất quy trình xác nhận đơn hàng:
+**Bước 3:** Sau khi hoàn tất các khâu xác nhận ở trên, nhân viên CSKH bấm nút **Lưu** hoặc **Lưu và in** để hoàn tất quy trình xác nhận đơn hàng:
 - Lưu: Đơn hàng sẽ chuyển sang trạng thái Đã xác nhận
 - Lưu và in: Phiếu gửi hàng sẽ được in ra, đồng thời đơn hàng chuyển sang trạng thái Đang đóng gói sản phẩm.
 
