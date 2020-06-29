@@ -11,7 +11,7 @@ Doanh nghiệp có thể kiểm tra danh sách các đơn hàng và số tiền 
 
 ![Giao diện làm việc của Đối soát COD](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/doi-soat-%20don-hang%20-1.png)
 
-- Đã thanh toán: Các khoản đối soát từ Nhanh thanh toán cho doanh nghiệp theo ngày, lịch đối soát doanh nghiệp vui lòng tham khảo [tại đây](https://nhanh.vn/huong-dan-van-chuyen). Doanh nghiệp có thể click vào chi tiết từng đợt thanh toán để kiểm tra các đơn hàng được đối soát trong lần đó.
+- Đã thanh toán: Các khoản đối soát từ Nhanh thanh toán cho doanh nghiệp theo ngày, lịch đối soát doanh nghiệp vui lòng tham khảo [tại đây](https://nhanh.vn/huong-dan-van-chuyen). Doanh nghiệp có thể bấm nút vào chi tiết từng đợt thanh toán để kiểm tra các đơn hàng được đối soát trong lần đó.
 
 - Đơn hàng đã thanh toán: Thông tin các đơn hàng đã được đối soát từ Nhanh bao gồm: ID đơn hàng, hãng vận chuyển, trạng thái đơn hàng, cước vận chuyển, chi phí phát sinh, tổng thanh toán đơn hàng.
 
