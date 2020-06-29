@@ -37,7 +37,7 @@ Xem thêm chi tiết về Bộ lọc [tại đây](link).
   
   
   
-  ## IV. Thông tin đơn hàng
+  ## Thông tin đơn hàng
   
  
   ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/danh-sach-don-hang-1.png)
