@@ -1,7 +1,7 @@
 # Danh sách hóa đơn bán lẻ
 
-Danh sách hóa đơn bán lẻ để quản lý toàn bộ hóa đơn bán lẻ tại cửa hàng.
-Bạn có thể tìm kiếm hóa đơn bán lẻ theo nhiều tiêu chí: Cửa hàng, ngày tạo, thu ngân lập phiếu...
+Danh sách hóa đơn bán lẻ là để quản lý toàn bộ hóa đơn bán lẻ tại cửa hàng.
+Bạn có thể tìm kiếm hóa đơn bán lẻ theo nhiều tiêu chí trong bộ lọc như: Doanh nghiệp, ID hoá đơn, Sản phẩm, Khách hàng,....
 
 Để xem danh sách hóa đơn bán lẻ, bạn vào menu Bán hàng, hoặc truy cập [tại đây.](https://nhanh.vn/pos/bill/index)
 
@@ -9,21 +9,25 @@ Giao diện làm việc của module Danh sách hóa đơn bán lẻ như sau:
 
 ## Bộ lọc
 
-### Bộ lọc cơ bản:
+Bộ lọc sẽ được chia theo từng cột như sau:
+ 
+ 
+![](https://raw.githubusercontent.com/hieunguyenduc-nhanh/manual/master/docs/ban-hang/img/danh-sach-hoa-don-ban-le.jpg)
+
 
 Doanh nghiệp: Chọn doanh nghiệp muốn lọc danh sách hóa đơn bán lẻ.
 
-ID: Lọc theo ID của hóa đơn bán lẻ. Mỗi hóa đơn bán lẻ được hệ thống gắn cho 1 ID riêng.
+ID hoá đơn: Lọc theo ID của hóa đơn bán lẻ. Mỗi hóa đơn bán lẻ được hệ thống gắn cho 1 ID riêng.
 
 Sản phẩm: Lọc theo tên sản phẩm
 
+Khách hàng: Lọc theo tên khách mua hàng.
+
 Từ ngày - Đến ngày: Lọc theo khoảng thời gian lập hóa đơn bán lẻ
 
+Cửa hàng: Lọc theo cửa hàng nếu doanh nghiệp có từ 2 Cửa hàng trở lên
+
 Người tạo: Lọc theo tên lập hóa đơn bán lẻ.
-
-### Bộ lọc nâng cao:
-
-Kho: Chọn cửa hàng/kho hàng muốn lọc.
 
 IMEI: Lọc theo số IMEI (áp dụng cho sản phẩm có IMEI).
 
@@ -34,8 +38,6 @@ ID đơn hàng: Lọc theo ID đơn đặt hàng từ module [Đơn hàng.](http
 Số lần in hóa đơn: Cho phép lọc những hóa đơn bán lẻ có số lượng in bao nhiêu (lớn hơn, nhỏ hơn, hoặc bằng một giá trị nào đó).
 
 Hạn thanh toán: Lọc theo khoảng thời gian hẹn thanh toán của hóa đơn bán lẻ.
-
-Khách: Lọc theo tên khách mua hàng.
 
 Ghi chú: Lọc theo những mô tả, ghi chú thêm về hóa đơn bán lẻ.
 
