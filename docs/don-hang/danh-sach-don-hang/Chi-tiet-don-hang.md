@@ -2,7 +2,7 @@
 
 Trang chi tiết đơn hàng giúp bạn theo dõi toàn bộ thông tin chi tiết về một đơn hàng cụ thể
 
-Để vào trang chi tiết đơn hàng, bạn click theo từng ID đơn hàng cụ thể tại cột ID đơn hàng trong [Danh sách đơn hàng](https://new.nhanh.vn/order/manage/index).
+Để vào trang chi tiết đơn hàng, bạn bấm nút theo từng ID đơn hàng cụ thể tại cột ID đơn hàng trong [Danh sách đơn hàng](https://new.nhanh.vn/order/manage/index).
 
 Chi tiết ID đơn hàng bao gồm 5 tab: Thông tin, Lịch trình,  In & Đóng gói, Thanh toán, Khiếu nại.
 
@@ -10,7 +10,7 @@ Chi tiết ID đơn hàng bao gồm 5 tab: Thông tin, Lịch trình,  In & Đó
 
 # Thông tin Đơn hàng
 
-![Giao diện làm việc của tab Thôn tin đơn hàng](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/chi-tiet-don-hang-1.png)
+![Giao diện làm việc của tab Thông tin đơn hàng](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/chi-tiet-don-hang-1.png)
 
 Thông tin đơn hàng là tab hiển thị chi tiết các thông tin về doanh nghiệp, khách hàng, sản phẩm, cước phí, lịch trình vận chuyển để doanh nghiệp nắm bắt được chính xác từng giai đoạn, lịch trình và thời gian thực hiện đơn hàng
 
@@ -40,7 +40,7 @@ Giao diện làm việc của tab này như sau:
 
 ![Giao diện làm việc của tab Thông tin khiếu nại](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/chi-tiet-don-hang-4.png)
 
-Để thêm khiếu nại, người dùng click vào nút ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/chi-tiet-don-hang-5.png)  để hiện ra bảng thêm khiếu nại:
+Để thêm khiếu nại, người dùng bấm nút vào nút ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/chi-tiet-don-hang-5.png)  để hiện ra bảng thêm khiếu nại:
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/chi-tiet-don-hang-6.png)
 
@@ -50,7 +50,7 @@ Người dùng chọn lý do khiếu nại từ khách hàng từ danh sách sau
 
 Nhập nội dung khiếu nại vào trường Khiếu nại
 
-Sau khi nhập liệu xong, click nút "Thêm" để lưu lại khiếu nại hoặc "Hủy" để hủy bỏ thêm khiếu nại.
+Sau khi nhập liệu xong, bấm nút "Thêm" để lưu lại khiếu nại hoặc "Hủy" để hủy bỏ thêm khiếu nại.
 
 Khiếu nại vừa được thêm có dạng như sau:
 
