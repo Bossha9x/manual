@@ -17,7 +17,7 @@ Sau khi có danh sách đơn hàng, nhân viên sẽ gọi điện cho khách h�
 - Tại danh sách đơn hàng, nhân viên bấm nút trạng thái đơn hàng "Mới", hệ thống sẽ chuyển đơn hàng sang trạng thái "Đang xác nhận". Do đó trong trường hợp có nhiều nhân viên cùng xác nhận đơn hàng thì cũng không thể xảy ra việc xác nhận trùng đơn hàng.
 - Nếu khách hàng đồng ý lấy hàng, nhân viên sẽ chuyển trạng thái đơn hàng đó sang "Đã xác nhận". Có 2 tùy chọn là "Lưu" và "Lưu và in", nhân viên bấm nút "Lưu và In" thì đơn hàng đó sẽ tiếp tục chuyển sang trạng thái "Đang đóng gói sản phẩm".
 - Nếu khách hàng không đồng ý lấy hàng, nhân viên chuyển trạng thái đơn hàng sang "Khách hủy" và lựa chọn lý do hủy đơn hàng.
-- Doanh nghiệp có thể xem thêm hướng dẫn khâu xác nhận đơn hàng tại đây.
+- Doanh nghiệp có thể xem thêm hướng dẫn khâu xác nhận đơn hàng [tại đây](https://manual.nhanh.vn/don-hang/quy-trinh-xu-ly-don-hang/xac-nhan-don-hang).
 
 ## In hàng và đóng gói
 
