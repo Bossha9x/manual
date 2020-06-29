@@ -12,16 +12,16 @@ Dịch vụ vận chuyển của Nhanh.vn là cổng kết nối giúp doanh ngh
 
 Có nhiều cách để doanh nghiệp gửi đơn hàng sang hãng vận chuyển:
 
-- Gửi từng đơn hàng: Tại Danh sách đơn hàng, click vào biểu tượng ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/bien-ban-ban-giao-6.png)  để gửi đơn qua hãng vận chuyển.
-- Gửi nhiều đơn hàng: Tại Danh sách đơn hàng, tick chọn nhiều đơn hàng, click nút Hành động, chọn Gửi các đơn đã chọn sang hãng vận chuyển.
-- Gửi nhiều đơn hàng bằng Biên bản bàn giao vận đơn: Tại Danh sách biển bản bàn giao vận đơn, click nút ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/bien-ban-ban-giao-3.png), chọn Gửi hãng vận chuyển.
+- Gửi từng đơn hàng: Tại Danh sách đơn hàng, bấm vào biểu tượng ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/bien-ban-ban-giao-6.png)  để gửi đơn qua hãng vận chuyển.
+- Gửi nhiều đơn hàng: Tại Danh sách đơn hàng, tick chọn nhiều đơn hàng, bấm nút Hành động, chọn Gửi các đơn đã chọn sang hãng vận chuyển.
+- Gửi nhiều đơn hàng bằng Biên bản bàn giao vận đơn: Tại Danh sách biển bản bàn giao vận đơn, bấm nút ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/bien-ban-ban-giao-3.png), chọn Gửi hãng vận chuyển.
 
 ### Theo dõi lịch trình đơn hàng
 Sau khi gửi đơn, bưu tá của hãng vận chuyển sẽ đến địa chỉ doanh nghiệp khai báo để lấy hàng và chuyển đi. Quá trình tính từ lúc hãng vận chuyển nhận bàn giao đơn hàng cho đến khi kết thúc quy trình giao hàng, doanh nghiệp có thể theo dõi được lịch trình đơn hàng.
 
 Quy trình theo dõi lịch trình như sau:
 
-**Bước 1:** Click vào tab Lịch trình trong trang chi tiết đơn hàng. Giao diện làm việc hiển thị như hình bên dưới:
+**Bước 1:** bấm vào tab Lịch trình trong trang chi tiết đơn hàng. Giao diện làm việc hiển thị như hình bên dưới:
 
 ![Giao diện làm việc của Quá trình xử lý đơn hàng](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/van-chuyen%20-%201.png)
 
