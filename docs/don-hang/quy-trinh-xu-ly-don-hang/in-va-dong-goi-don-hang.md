@@ -11,9 +11,10 @@ Người dùng thao tác nghiệp vụ này trên hệ thống như sau:
 
 Những đơn hàng trong tab này ở 3 trạng thái là Đang đóng gói sản phẩm hoặc Đã xác nhận, và Đổi kho xuất hàng.
 
-- Để in phiếu gửi một vài hoặc tất cả những đơn hàng này, người dùng tích chọn vào ô ![chú thích ảnh ví du them-don-hang](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/in-dong-goi-2.png) tại danh sách đơn hàng, và click nút Thao tác --> In phiếu gửi các đơn đã chọn.
-- Để in một đơn hàng cụ thể, người dùng click vào nút thao tác nhanh ![chú thích ảnh ví du them-don-hang](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/in-dong-goi-3.png) tại mỗi đơn hàng và chọn In phiếu gửi.
-- Để in các đơn hàng đang ở trạng thái Đã xác nhận người dùng lọc trạng thái này trên bộ bọc, rồi tiến hành tích chọn toàn bộ đơn hàng, sau đó click nút ![chú thích ảnh ví du them-don-hang](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/img/thao-tac.jpg) và chọn In phiếu gửi tất cả những đơn đã chọn
+- Để in phiếu gửi một vài hoặc tất cả những đơn hàng này, người dùng tích chọn vào ô ![chú thích ảnh ví du them-don-hang](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/in-dong-goi-2.png) tại danh sách đơn hàng, và bấm nút nút Thao tác --> In phiếu gửi các đơn đã chọn.
+- Để in một đơn hàng cụ thể, người dùng bấm nút
+vào nút thao tác nhanh ![chú thích ảnh ví du them-don-hang](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/in-dong-goi-3.png) tại mỗi đơn hàng và chọn In phiếu gửi.
+- Để in các đơn hàng đang ở trạng thái Đã xác nhận người dùng lọc trạng thái này trên bộ bọc, rồi tiến hành tích chọn toàn bộ đơn hàng, sau đó bấm nút nút ![chú thích ảnh ví du them-don-hang](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/img/thao-tac.jpg) và chọn In phiếu gửi tất cả những đơn đã chọn
 
 - Những đơn hàng ở trạng thái Đang đóng gói sản phẩm có nghĩa là đã được in phiếu gửi hàng.
 
@@ -37,9 +38,9 @@ Xem thêm:
 
 Thao tác cụ thể như sau:
 
-- Ở tab In và đóng gói, sau khi in phiếu gửi, doanh nghiệp tick chọn các đơn cùng hãng vận chuyển / click Hành động / chọn Thêm đơn hàng vào biên bản bàn giao / click Lưu đễ hoàn tất thao tác thêm biên bản.
+- Ở tab In và đóng gói, sau khi in phiếu gửi, doanh nghiệp tick chọn các đơn cùng hãng vận chuyển / bấm nút Hành động / chọn Thêm đơn hàng vào biên bản bàn giao / bấm nút Lưu đễ hoàn tất thao tác thêm biên bản.
 - Vào 
-[Danh sách biên bản bàn giao](https://new.nhanh.vn/shipping/handover/index), tìm đến biên bản cần nhặt hàng, click nút ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/bien-ban-ban-giao-3.png) , chọn In bảng tổng hợp sản phẩm, rồi cầm bảng đó đi nhặt hàng (loại bỏ tình trạng nhặt thiếu sản phẩm, phải nhặt lại nhiều lần).
+[Danh sách biên bản bàn giao](https://new.nhanh.vn/shipping/handover/index), tìm đến biên bản cần nhặt hàng, bấm nút nút ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/bien-ban-ban-giao-3.png) , chọn In bảng tổng hợp sản phẩm, rồi cầm bảng đó đi nhặt hàng (loại bỏ tình trạng nhặt thiếu sản phẩm, phải nhặt lại nhiều lần).
 
 Xem thêm hướng dẫn sử dụng Biên bản bàn giao vận đơn [tại đây.](https://manual.nhanh.vn/don-hang/quy-trinh-xu-ly-don-hang/bien-ban-ban-giao-don-hang-cho-hang-van-chuyen)
 
