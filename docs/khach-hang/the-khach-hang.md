@@ -21,7 +21,7 @@ Tình huống sử dụng thực tế:
 Sau khi thêm mới, các đợt phát hành thẻ sẽ xuất hiện tại Danh sách đợt phát hành thẻ khách hàng.
 
 
-![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/khach-hang/img/danh-sach-dot-phat-hanh-the-1.jpg)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/khach-hang/img/phat-hanh-the-01a.jpg)
 
 
 Tình huống sử dụng thực tế:
@@ -34,7 +34,7 @@ Tình huống sử dụng thực tế:
  - Tại Danh sách đợt phát hành thẻ, click vào số lượng mã thẻ
  
  
- ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/khach-hang/img/danh-sach-dot-phat-hanh-the-2-.jpg)
+ ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/khach-hang/img/phat-hanh-the-01a.jpg)
 
 
 - Click nút ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/khach-hang/img/nut1.jpg) tại từng mã thẻ, chọn Thêm khách hàng. Sau đó nhập các thông tin cần thiết của khách hàng, click Lưu để hoàn tất thao tác.
