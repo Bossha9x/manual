@@ -88,7 +88,3 @@ Câu trả lời là không. Vì hóa đơn bán lẻ không được coi là ch
 Hóa đơn bán lẻ sau khi được tạo sẽ xuất hiện tại trang [Danh sách hóa đơn bán lẻ](https://nhanh.vn/pos/bill/index)
 
 Vậy là bạn đã thao tác xong cách Thêm một hoá đơn bán lẻ một cách dễ dàng rồi, Nhanh.vn cảm ơn vì bạn đã tin tưởng khi lựa chọn Nhanh.vn để quản lí doanh nghiệp của mình.
-
-
-
-[[embed url=http://www.youtube.com/watch?v=6YbBmqUnoQM]]
