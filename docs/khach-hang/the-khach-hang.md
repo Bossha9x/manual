@@ -1,9 +1,10 @@
 # Thẻ khách hàng
 
 * Thẻ khách hàng (hay còn gọi là Loyalty Card, VIP Card, Member Card...) là công cụ để định danh thông tin khách hàng.
-* Thẻ khách hàng gồm 2 thông tin là mã thẻ và thông tin khách hàng. Một thẻ được gắn với một khách hàng cụ thể.
+* Thẻ khách hàng gồm 2 thông tin chính, là mã thẻ và thông tin khách hàng. Một thẻ được gắn với một khách hàng cụ thể.
 * Mã thẻ giúp tìm kiếm khách hàng nhanh hơn, thông tin trên thẻ cũng giúp khách hàng thường xuyên nhớ tới thương hiệu của bạn hơn.
-*todo: thêm Hình minh họa thẻ*
+
+[!Thẻ khách hàng của MediaMart - nguồn: Internet](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/khach-hang/img/the-khach-hang-01a.jpg)
 
 Tình huống sử dụng thực tế:
 
@@ -13,7 +14,7 @@ Tình huống sử dụng thực tế:
 
 ## Phát hành thẻ
 
-* Bạn  truy cập Khách hàng / Thẻ khách hàng / Tab Phát hành thẻ/ click Thêm mới. Có 2 cách thêm mới đợt phát hành thẻ khách hàng:
+* Bạn  truy cập Khách hàng / Thẻ khách hàng / Tab Phát hành thẻ/ click [Thêm mới](https://nhanh.vn/customer/batch/index?tab=add). Có 2 cách thêm mới đợt phát hành thẻ khách hàng:
 1. Thêm trực tiếp: Nhập tên đợt phát hành thẻ, số lượng thẻ phát hành, click Lưu ==> Hệ thống tự động sinh mã thẻ
 2. Import Excel: Chuyển sang tab Import hoặc truy cập vào đây, tải file mẫu về, nhập liệu, sau đó import lên hệ thống. ==> với cách này, hệ thống không tự sinh mã thẻ mà doanh nghiệp có thể tùy chỉnh được mã thẻ khách hàng theo ý muốn.
 
