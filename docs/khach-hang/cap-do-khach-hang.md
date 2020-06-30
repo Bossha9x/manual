@@ -5,7 +5,7 @@
 - Cấp độ của khách hàng tự động thay đổi nếu khách hàng đáp ứng được các tiêu chí của từng cấp độ (khác với nhóm khách hàng - không tự thay đổi)
 
 Để có thể thêm mới cấp độ, bạn thao tác như sau: 
-- Vào Khách hàng / Cấp độ / [Thêm mới](https://nhanh.vn/customer/store/addlevel)
+- Bạn truy cập vào Khách hàng / Cấp độ / [Thêm mới](https://nhanh.vn/customer/store/addlevel)
 
 - Tại đây, bạn điền thông tin vào các trường bắt buộc. Hiện tại Nhanh.vn có 3 kiểu phân cấp là : tổng tiền tích lũy, tổng tiền mỗi tháng, mức trung bình theo tháng. Sau khi điền xong các thông tin, bạn nhớ chọn trạng thái là **Hoạt động** và ấn nút **Lưu**.
 
