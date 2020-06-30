@@ -100,6 +100,7 @@ Truy cập thanh bộ lọc bên tay trái màn hình, nhấn chuột Tìm theo 
 
 # 21. Page không gửi tin nhắn cho khách từ bình luận được?
 Trả lời: Do page tắt tính năng Tin nhắn riêng. Bạn bật tính năng này lên bằng cách vào Cài đặt / Chung / Tin nhắn / Chỉnh sửa, tích chọn.
+
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/vpage/img/Kh%C3%B4ng%20g%E1%BB%ADi%20tn.png)
 
 # 22. Vpage báo lỗi : " Phiên đăng nhập hết hạn, vui lòng đăng nhập lại"
