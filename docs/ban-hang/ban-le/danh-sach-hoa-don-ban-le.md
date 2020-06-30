@@ -78,5 +78,15 @@ Sửa hoá đơn: ![](https://raw.githubusercontent.com/nhanhapi/manual/master/d
 Thao tác:
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/ban-hang/img/sua-hoa-don-ban-lee.png) cho phép bạn tạo hóa đơn trả hàng cho hóa đơn bán lẻ đó, xóa phiếu Xuất nhập kho tương ứng với hóa đơn bán lẻ, và Hạch toán lại kế toán cho hóa đơn bán lẻ này.
+
 Lịch sử sửa đơn: Tab này hiển thị thông tin về những lần sửa hóa đơn bán lẻ.
+
 Hóa đơn trả hàng: Tab này hiển thị các hóa đơn trả hàng tương ứng với hóa đơn bán lẻ này.
+
+**Một số lợi ích trong việc sử dụng phần mềm để quản lí bán lẻ cho kinh doanh thời trang.
+
+- Quản lý bán hàng từ xa
+- Tiết kiệm chi phí bán hàng
+- Tiết kiệm thời gian và công sức trong mọi hoạt động bán hàng và quản lý
+
+Hoặc bạn có thể tham khảo thêm [tại đây](https://nhanh.vn/chuc-nang-va-loi-ich-cua-phan-mem-quan-ly-ban-le-trong-kinh-doanh-thoi-trang-n58789.html)
