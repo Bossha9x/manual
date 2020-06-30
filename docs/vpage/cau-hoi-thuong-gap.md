@@ -93,7 +93,9 @@ Trả lời: Do bài viết đạt lượng tương tác quá nhiều, cụ th�
 Giải pháp: Đối với những bài viết nhiều tương tác như trên, nên tạo lại một bài viết mới với nội dung giống hệt bài cũ rồi chạy quảng cáo lên bài viết mới để không bị tình trạng quá nhiều tương tác trong 1 bài viết.
 
 # 20. Lọc comment theo bài viết như thế nào? 
-Truy cập ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/vpage/img/ID%20b%C3%A0i%20vi%E1%BA%BFt.png)
+Truy cập thanh bộ lọc bên tay trái màn hình, nhấn chuột Tìm theo ID bài viết 
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/vpage/img/ID%20b%C3%A0i%20vi%E1%BA%BFt.png)
+
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/vpage/img/HD%20l%E1%BA%A5y%20link.png)
 
 # 21. Page không gửi tin nhắn cho khách từ bình luận được?
