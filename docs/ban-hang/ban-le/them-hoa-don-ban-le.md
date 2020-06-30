@@ -17,9 +17,9 @@ Sau đó hệ thống sẽ có giao diện như sau:
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/ban-hang/img/them-hoa-don-ban-le.jpg)
 
 
-Nếu bạn muốn nhập nhanh số lượng sản phẩm trước mỗi lần nhập thì Phần mềm sẽ có thêm 1 tính năng mới là nhập tự động số lượng lớn Sản phẩm thay vì phải nhập tay như trước:
+- Nếu bạn muốn nhập nhanh số lượng sản phẩm trước mỗi lần nhập thì Phần mềm sẽ có thêm 1 tính năng mới là nhập tự động số lượng lớn Sản phẩm thay vì phải nhập tay như trước:
 
-Bạn chọn vào biểu tượng máy tít nhỏ ở bên cạnh thanh tên Sản phẩm rồi điền số lượng Sản phẩm cần nhập > Sau đó Enter là Hệ thống sẽ hiển thị số lượng Sản phẩm mà bạn nhập ở đó vào. 
+- Bạn chọn vào biểu tượng máy tít nhỏ ở bên cạnh thanh tên Sản phẩm rồi điền số lượng Sản phẩm cần nhập > Sau đó Enter là Hệ thống sẽ hiển thị số lượng Sản phẩm mà bạn nhập ở đó vào. 
 
 ![](https://raw.githubusercontent.com/hieunguyenduc-nhanh/manual/master/docs/ban-hang/img/hdsd-them-hoa-don-ban-le.jpg)
 
@@ -34,7 +34,7 @@ Bước 2: Nhập tên/mã sản phẩm
 
 Bước 3: Nhập thông tin khách hàng, nhân viên bán hàng, nhân viên kỹ thuật, ghi chú cho hóa đơn (nếu cần) (*)
 
-Bước 4: Nhập thông tin thanh toán cho hóa đơn (**)
+Bước 4: Nhập thông tin thanh toán cho hóa đơn. VD: Tiền khách đưa, tiền chuyển khoản(**)
 
 Sau khi đã nhập đầy đủ các thông tin cần thiết, người dùng Nhấp chuột vào "Lưu hóa đơn" hoặc "Bật tự động in " để hệ thống sẽ tự động in hoá đơn khi hoàn tất quy trình thêm hóa đơn bán lẻ.
 
