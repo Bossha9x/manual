@@ -1,13 +1,34 @@
-# Thêm hóa đơn bán buôn
 
-Thêm hóa đơn bán buôn là module cho phép doanh nghiệp tạo hóa đơn bán buôn cho khách hàng tại cửa hàng
+# Hoá đơn bán buôn
 
-- VD: Khách đến cửa hàng mua buôn với số lượng lớn, nhân viên thu ngân truy cập vào [Tạo hóa đơn bán buôn](https://nhanh.vn/pos/bill/addwholesale) để tạo và in hóa đơn bán buôn cho khách.
+Bán buôn hay bán sỉ (phương ngữ miền Nam) là hình thức bán một khối lượng lớn hàng hóa cho các nhà bán lẻ, các người dùng công nghiệp, thương nghiệp hoặc các nhà bán buôn khác. 
 
-Để tạo hóa đơn bán buôn, bạn lần lượt truy cập vào: Bán hàng / Lập hóa đơn / Bán buôn; hoặc truy cập [tại đây.](https://nhanh.vn/pos/bill/addwholesale)
+Nói cách khác, bán buôn là bán hàng đến một đối tượng khách hàng không phải là khách hàng đơn lẻ thông thường.
+
+Bán buôn thường áp dụng, hoặc nhằm vào các trung gian thương mại như tổng đại lý, đại lý các cấp. Những khách hàng mua với số lượng lớn như khách mua cho các dự án cũng có thể được áp dụng giá bán buôn.
+
+Việc bán buôn thường làm xuất hiện một mức giá đặc biệt gọi là giá bán buôn.
+
+Giá bán buôn có thể quy định kiểu bậc thang theo các mức khối lượng hàng bán ra nhằm khuyến khích tổng đại lý, đại lý mua nhiều mà vẫn đảm bảo sự cân bằng và công bằng về giá trong hệ thống thương mại. Tùy từng trường hợp mà giá bán sỉ (bán buôn) khác nhau với số lượng đơn hàng càng lớn thì giá gốc lấy càng rẻ.
+
+## Thêm hóa đơn bán buôn trên Nhanh.vn:
+
+Để tạo hóa đơn bán buôn, bạn lần lượt truy cập vào:
+
+Đầu tiên vào module Bán hàng +> Bán Buôn
+
+Sau đó nhấp chuột vào thêm mới, hệ thống sẽ có các loại hoá đơn cho doanh nghiệp như sau
 
 
-![](https://raw.githubusercontent.com/hieunguyenduc-nhanh/manual/master/docs/ban-hang/img/ban-buon.jpg)
+![](https://raw.githubusercontent.com/hieunguyenduc-nhanh/manual/master/docs/ban-hang/img/ban-buon-thao.jpg)
+
+
+Ngoài thêm hoá đơn bán lẻ thì phần mềm cũng có thêm những lựa chọn khác cho doanh nghiệp như xuất bán/ trả Doanh nghiệp khác, giúp cho doanh nghiệp đa dạng lựa chọn hơn khi bán hàng.
+
+Sau khi nhấp chuột vào thêm hoá đơn bán Buôn thì hệ thống sẽ có giao diện như sau:
+
+
+![](https://raw.githubusercontent.com/hieunguyenduc-nhanh/manual/master/docs/ban-hang/img/ban-buon-thao1.jpg)
 
 
 Với sản phẩm IMEI, Nhấp chuột vào dấu mũi tên ''xuống'' trước tên sản phẩm để nhập IMEI riêng cho từng sản phẩm.
@@ -22,16 +43,16 @@ Hoặc có thể nhấn nhanh F3 để chuyển sang các chế độ nhập kh�
 
 Quy trình thêm hóa đơn bán buôn tương tự với thêm hóa đơn bán lẻ, chỉ khác nhau ở chỗ giá sản phẩm sẽ lấy theo giá buôn.
 
-Tham khảo hướng dẫn thêm hóa đơn bán lẻ tại đây
-
 Hóa đơn bán buôn sau khi được tạo xong sẽ xuất hiện tại trang [Danh sách hóa đơn bán buôn](https://nhanh.vn/pos/bill/wholesale)
 
-Vậy là bạn đã thao tác xong cách Thêm một hoá đơn bán buôn một cách dễ dàng rồi, Nhanh.vn cảm ơn vì bạn đã tin tưởng khi lựa chọn Nhanh.vn để quản lí doanh nghiệp của mình.
+## Một số câu hỏi thường gặp khi sử dụng trên phần mềm:
 
+- Khách hàng muốn thanh toán hóa đơn bằng cách chuyển khoản thì trong phần mềm thực hiện các bước như thế nào?
 
-Mọi thắc mắc trong quá trình sử dụng, xin quý khách vui lòng:
+Khi khách hàng mua hàng bằng cách chuyển khoản thì trong phần mềm khi nhập tiền thanh toán chỉ cần điền số tiền vào phần quẹt thẻ và chọn tài khoản kế toán 1121 là được.
 
-- Nhấp chuột vào  *Hướng dẫn sử dụng* để xem bài hướng dẫn trên màn hình mà doanh nghiệp đang thao tác
+- Các hoạt động thu chi không liên quan đến bán hàng và mua hàng thì sẽ thực hiện như thế nào trên phần mềm?
 
-- Nhấp chuột vào  *Hỗ trợ trực tuyến* để chat trực tiếp với bộ phận hỗ trợ online của Nhanh.vn
+Cái này chỉ áp dụng cho doanh nghiệp có sử dụng Module Kế toán trên phần mềm, thao tác thực hiện như sau
 
+Đầu tiên vào Module Kế toán > Thu chi tiền mặt/ Thu chi ngân hàng (Tuỳ vào các khoản thu chi của doanh nghiệp tương ứng với TK kế toán)
