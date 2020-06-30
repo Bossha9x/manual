@@ -85,7 +85,7 @@
 
 * [Giới thiệu](khach-hang/gioi-thieu.md)
 * [Thêm khách hàng](khach-hang/them-khach-hang.md)
-* [Nhóm khách hàng] (khach-hang/nhom-khach-hang.md)
+* [Nhóm khách hàng](khach-hang/nhom-khach-hang.md)
 
 ## Website
 
