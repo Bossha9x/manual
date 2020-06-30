@@ -17,9 +17,10 @@ Các hành động chăm sóc khách hàng trên Nhanh hiện có:
 
 + Cuộc gọi
 
-Tuỳ vào nhu cầu sử dụng của doanh nghiệp, có thể tạo các chương trình chăm sóc khách hàng phù hợp, mục đích để liên hệ với các khách đã từng mua hàng.
+Tuỳ vào nhu cầu sử dụng, bạn có thể tạo các chương trình chăm sóc khách hàng phù hợp, mục đích để liên hệ với các khách đã từng mua hàng.
 
-Trước khi thực hiện được các hành động chăm sóc khách hàng, doanh nghiệp phải tạo [Hình thức chăm sóc](https://new.nhanh.vn/customer/type/index) và [Lý do chăm sóc](https://new.nhanh.vn/customer/reason/index). Có thể tạo nhiều lý do chăm sóc trong 1 hình thức chăm sóc.
+Trước khi thực hiện được các hành động chăm sóc khách hàng, bạn phải tạo [Hình thức chăm sóc](https://nhanh.vn/customer/type/index) và [Lý do chăm sóc](https://nhanh.vn/customer/reason/index). Có thể tạo nhiều lý do chăm sóc trong 1 hình thức chăm sóc.
+
 ## Tặng điểm / trừ điểm tích luỹ
 Sử dụng khi doanh nghiệp đang chạy chương trình tích điểm tự động, muốn thêm hoặc bớt điểm của khách hàng (cách cài đặt chương trình tích điểm).
 
