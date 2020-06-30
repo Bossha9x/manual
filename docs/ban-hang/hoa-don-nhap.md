@@ -1,6 +1,6 @@
 # Hóa đơn nháp
 
-- Đơn nháp là đơn chỉ yêu cầu điền số điện thoại khách hàng, không yêu cầu điền đầy đủ các thông tin khác.
+Đơn nháp là đơn chỉ yêu cầu điền số điện thoại khách hàng, không yêu cầu điền đầy đủ các thông tin khác.
 
 Tính năng này phù hợp cho bộ phận CSKH đang chat / gọi điện với khách, chưa xin được đầy đủ thông tin, chưa chốt được sản phẩm.
 
