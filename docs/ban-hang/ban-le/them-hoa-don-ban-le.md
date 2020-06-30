@@ -17,9 +17,9 @@ Sau đó hệ thống sẽ có giao diện như sau:
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/ban-hang/img/them-hoa-don-ban-le.jpg)
 
 
-Phần mềm sẽ có thêm 1 tính năng mới là nhập tự động số lượng lớn Sản phẩm thay vì phải nhập tay như trước:
+Nếu bạn muốn nhập nhanh số lượng sản phẩm trước mỗi lần nhập thì Phần mềm sẽ có thêm 1 tính năng mới là nhập tự động số lượng lớn Sản phẩm thay vì phải nhập tay như trước:
 
-Bạn chọn vào biểu tượng máy tít nhỏ ở bên cạnh thanh tên Sản phẩm rồi điền số lượng Sản phẩm cần nhập > Sau đó Enter là Hệ thống sẽ hiển thị số lượng Sản phẩm mà bạn nhập ở đó vào. **Hoặc có thể nhập thủ công
+Bạn chọn vào biểu tượng máy tít nhỏ ở bên cạnh thanh tên Sản phẩm rồi điền số lượng Sản phẩm cần nhập > Sau đó Enter là Hệ thống sẽ hiển thị số lượng Sản phẩm mà bạn nhập ở đó vào. 
 
 ![](https://raw.githubusercontent.com/hieunguyenduc-nhanh/manual/master/docs/ban-hang/img/hdsd-them-hoa-don-ban-le.jpg)
 
