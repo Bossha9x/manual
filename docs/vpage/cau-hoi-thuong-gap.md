@@ -95,7 +95,7 @@ Giải pháp: Đối với những bài viết nhiều tương tác như trên, 
 # 20. Lọc comment theo bài viết như thế nào? 
 Truy cập thanh bộ lọc bên tay trái màn hình, nhấn chuột Tìm theo ID bài viết 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/vpage/img/ID%20b%C3%A0i%20vi%E1%BA%BFt.png)
-
+Sau đó copy link bài viết tại đây để lọc 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/vpage/img/HD%20l%E1%BA%A5y%20link.png)
 
 # 21. Page không gửi tin nhắn cho khách từ bình luận được?
