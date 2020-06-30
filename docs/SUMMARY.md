@@ -89,7 +89,10 @@
 * [Nhóm khách hàng](khach-hang/nhom-khach-hang.md)
 * [Cấp độ khách hàng](khach-hang/cap-do-khach-hang.md)
 * [Thẻ khách hàng](khach-hang/the-khach-hang.md)
-* [Chăm sóc khách hàng](khach-hang/cham-soc-khach-hang)
+* Chăm sóc khách hàng
+  * [Chăm sóc khách hàng](khach-hang/cham-soc-khach-hang.md)
+  * [Hình thức chăm sóc](khach-hang/hinh-thuc-cham-soc.md)
+  * [Lý do chăm có](khach-hang/ly-do-cham-soc.md)
 
 ## Website
 
