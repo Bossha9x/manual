@@ -1,6 +1,10 @@
 
 # Bán Hàng
 
+Bán hàng là khâu cuối cùng trong quá trình hoạt động kinh doanh của doanh nghiệp, là quá trình người bán chuyển giao quyền sở hữu hàng hoá cho người mua để nhận sở hữu về tiền tệ hoặc quyền đòi tiền ở người mua.
+
+Ở Nhanh.vn thì Bán hàng được hiểu là:
+
 Bán hàng giúp bạn quản lý tất cả các nghiệp vụ bán lẻ, bán buôn tại cửa hàng, trả hàng....
 
 Các nghiệp vụ mà bạn có thể thực hiện trong Bán hàng
@@ -12,6 +16,44 @@ Các nghiệp vụ mà bạn có thể thực hiện trong Bán hàng
 - [Xem danh sách hóa đơn bán lẻ](https://nhanh.vn/pos/bill/index)
 - [Xem danh sách hóa đơn bán buôn](https://nhanh.vn/pos/bill/wholesale)
 - [Xem danh sách hóa đơn trả hàng](https://nhanh.vn/product/retail/returns)
+
+## Khái niệm bán lẻ:
+
+Dù hoá đơn bán lẻ không có nhiều giá trị về pháp lý hay thuế, nhưng nó cũng có vai trò nhất định giữa người bán với người mua. Hóa đơn bán lẻ sẽ giúp chứng minh được sự mua bán giữa hai bên. Nếu xảy ra tranh chấp giữa 2 bên thì việc mà có hóa đơn bán lẻ thì cũng là có được một bằng chứng đáng giá. Mục đích chủ yếu của hóa đơn bán lẻ là để giúp thể hiện nội dung việc mua bán (số lượng, tên hàng hóa, thành tiền, ngày tháng,….)
+Thêm hóa đơn bán lẻ dùng để tạo hóa đơn bán hàng (bán lẻ) cho khách đến mua tại cửa hàng.
+
+
+## Khái niệm bán buôn:
+
+Bán buôn hay bán sỉ (phương ngữ miền Nam) là hình thức bán một khối lượng lớn hàng hóa cho các nhà bán lẻ, các người dùng công nghiệp, thương nghiệp hoặc các nhà bán buôn khác. 
+
+Nói cách khác, bán buôn là bán hàng đến một đối tượng khách hàng không phải là khách hàng đơn lẻ thông thường.
+
+Bán buôn thường áp dụng, hoặc nhằm vào các trung gian thương mại như tổng đại lý, đại lý các cấp. Những khách hàng mua với số lượng lớn như khách mua cho các dự án cũng có thể được áp dụng giá bán buôn.
+
+Việc bán buôn thường làm xuất hiện một mức giá đặc biệt gọi là giá bán buôn.
+
+Giá bán buôn có thể quy định kiểu bậc thang theo các mức khối lượng hàng bán ra nhằm khuyến khích tổng đại lý, đại lý mua nhiều mà vẫn đảm bảo sự cân bằng và công bằng về giá trong hệ thống thương mại. Tùy từng trường hợp mà giá bán sỉ (bán buôn) khác nhau với số lượng đơn hàng càng lớn thì giá gốc lấy càng rẻ.
+
+Thêm hoá đơn bán buôn [tại đây](https://manual.nhanh.vn/ban-hang/ban-buon/them-hoa-don-ban-buon)
+
+## Khái niệm nợ quà tặng:
+
+Các chương trình khuyến mại ngày càng đa dạng, linh hoạt từ giảm giá, tặng thành phẩm đến những chương trình phức tạp kéo dài như tích điểm đổi quà,… tất cả đều nhằm một mục đích chung để kéo người tiêu dùng sử dụng sản phẩm của doanh nghiệp. Ai cũng biết lợi ích của khuyến mãi là gì nhưng ít ai quan tâm mặt trái của vấn đề liệu có tồn tại. Khuyến mãi mang trong mình rất nhiều những điểm tích cực nhưng nó đồng thời cũng là một trong những tác nhân tiêu cực tác động lên thị trường. Khuyến mãi tặng quà là hình thức tặng quà cho người mua hàng khi mua sản phẩm của bạn. Đây là một trong những hình thức khuyến mại đơn giản, dễ thực hiện và mang lại hiệu quả cao.
+
+Người tiêu dùng thường có xu hướng yêu thích được thêm lợi ích vật chất từ việc mua hàng của bạn. Vì vậy đây là cách trực tiếp giúp thuyết phục họ mua nhiều hơn. Do có khuyến mại nên có thể họ sẽ mua hàng đủ xài cho 2 tháng thay vì chỉ 1 tháng như nhu cầu ban đầu nên dễ dẫn đến tình trạng hết hàng tặng kèm - thiếu sót. Do đó Nhanh.vn đã có cách giải quyết vấn đề này là **Tính năng: Nợ quà tặng.**
+
+Nợ quà tặng là gì? Nợ quà tặng được hiểu như đúng cái tên của nó, nhưng trên Nhanh.vn nó giúp ích cho Doanh nghiệp rất nhiều như Lưu giữ/ ghi chép và quản lí những quà tặng bị thiếu sót của Doanh nghiệp với khách hàng trong những lần có Chương trình Khuyến mãi tặng quà. Và giúp doanh nghiệp theo dõi được số tồn sản phẩm một cách chính xác hơn.
+
+Để xem danh sách nợ quà tặng trên Nhanh.vn bạn truy cập [vào đây.](https://manual.nhanh.vn/ban-hang/no-qua-tang)
+
+## Khái niệm trả hàng:
+
+Quy Định Đổi Trả Hàng Hóa. Đổi hàng: Là hoạt động Doanh nghiệp làm việc với nhà cung cấp hoặc khách hàng để thực hiện việc đổi hàng để nhận lại hàng thay thế. 
+
+Trả hàng: Là hoạt động Quý khách trả lại hàng hóa mà Quý khách không nhận do lỗi từ nhà cung cấp, lỗi dịch vụ của Doanh nghiệp - Nhà cung cấp khác hoặc do mong muốn chủ quan của Quý khách.
+
+Thao tác trả hàng bạn có thể tham khảo [tại đây](https://manual.nhanh.vn/ban-hang/tra-hang)
 
 ## Quy trình bán Lẻ/bán Buôn
 
