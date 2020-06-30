@@ -48,6 +48,8 @@ Anh/chị đăng xuất phần mềm ra, đăng nhập lại và ấn nút tải
 
 # 9. Vpage có tính năng trả lời tự động không?
 Hiện tại Vpage không có tính năng trả lời tự động. Trước đây phần mềm đã có tính năng này nhưng do chính sách của Facebook hạn chế spam nên tạm thời tính năng đã bị tắt để tránh Facebook quét.
+Vpage có tính năng trả lời tự động bình luận bằng một tin nhắn riêng 
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/vpage/img/Tl%20t%E1%BB%B1%20%C4%91%E1%BB%99ng.png)
 
 # 10. Vpage có quản lý được trên trang cá nhân không?
 Vpage là phần mềm quản lý fanpage, chưa quản lý được trên trang cá nhân.
@@ -56,6 +58,7 @@ Vpage là phần mềm quản lý fanpage, chưa quản lý được trên trang
 
 # 11. Trên Vpage có thể xem profile của khách luôn không?
 Trước đây trên Vpage có phần link sang xem profile của khách luôn nhưng hiện tại do chính sách của Facebook hạn chế việc xem dữ liệu cá nhân của người dùng nên từ phần mềm, anh/chị chỉ có thể ấn nút “xem trên Facebook" để link tới hội thoại đó trên Facebook và xem profile của khách.
+Từ tháng 4, FB không còn để hiển thị nút" xem trên Facebook " đối với các khách hàng mới xuất hiện trên Vpage nữa, anh chị phải kết hợp mở trực tiếp trên Fanpage Facebook ạ
 
 # 12. Tại sao tôi chưa gửi tin nhắn cho khách từ comment nhưng icon đã báo xanh?
 Có thể anh/chị đang dùng cái nhúng comments trên website khi khách của anh/chị vào website sẽ comment xuống dưới đó, hội thoại vẫn về nhưng không thể thao tác gì được, do nó là comment đến từ plugin.
