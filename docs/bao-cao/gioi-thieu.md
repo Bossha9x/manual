@@ -1,9 +1,9 @@
 # Tổng quan về báo cáo
 
 Nhanh.vn cung cấp cho người dùng hệ thống báo cáo theo thời gian thực tại thời điểm truy cập và thao tác. 
-Cung cấp hệ thống báo cáo chi tiết, cụ thể về doanh thu, bán lẻ, đơn hàng, sản phẩm,....mà không cần thực hiện thêm bất cứ thao tác tính toán nào 
+Nhằm giúp các doanh nghiệp kiểm soát, theo dõi không chỉ về doanh thu, lợi nhuận, tồn kho,...mà còn về cả sản phẩm, khách hàng, kế toán,... mà không cần thực hiện thêm bất cứ thao tác tính toán nào. Từ đó giúp doanh nghiệp đưa ra các chiến lược, quyết định quan trọng trong việc kinh doanh, buôn bán và phát triển doanh nghiệp.
 
-Được chia làm 10 module báo cáo tổng và trong đó có khoảng 80 báo cáo chi tiết tương ứng với mỗi module.
+Được chia làm 10 module báo cáo tổng và trong đó có khoảng 80 báo cáo chi tiết tương ứng với mỗi module sẽ giúp các doanh nghiệp đáp ứng được những yêu cầu đó. 
 
 **Danh sách chi tiết các loại báo cáo tại đây**
 
