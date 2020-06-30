@@ -4,7 +4,7 @@
 * Thẻ khách hàng gồm 2 thông tin chính, là mã thẻ và thông tin khách hàng. Một thẻ được gắn với một khách hàng cụ thể.
 * Mã thẻ giúp tìm kiếm khách hàng nhanh hơn, thông tin trên thẻ cũng giúp khách hàng thường xuyên nhớ tới thương hiệu của bạn hơn.
 
-[!Thẻ khách hàng của MediaMart - nguồn: Internet](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/khach-hang/img/the-khach-hang-01a.jpg)
+![Thẻ khách hàng của MediaMart - nguồn: Internet](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/khach-hang/img/the-khach-hang-01a.jpg)
 
 Tình huống sử dụng thực tế:
 
