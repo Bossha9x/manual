@@ -83,7 +83,7 @@ Lịch sử sửa đơn: Tab này hiển thị thông tin về những lần s�
 
 Hóa đơn trả hàng: Tab này hiển thị các hóa đơn trả hàng tương ứng với hóa đơn bán lẻ này.
 
-**Một số lợi ích trong việc sử dụng phần mềm để quản lí bán lẻ cho kinh doanh thời trang.
+#### Một số lợi ích trong việc sử dụng phần mềm để quản lí bán lẻ cho kinh doanh thời trang.
 
 - Quản lý bán hàng từ xa
 - Tiết kiệm chi phí bán hàng
