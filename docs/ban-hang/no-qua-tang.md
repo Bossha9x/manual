@@ -33,4 +33,6 @@ Cho phép xuất Excel bảng danh sách nợ quà tặng để lưu trữ (xu�
 
 ![](https://raw.githubusercontent.com/hieunguyenduc-nhanh/manual/patch-4/docs/ban-hang/img/no-qua-tang-2.jpg)
 
-Rất đơn giản phải không, Nhanh.vn chúc bạn có một trải nghiệm tuyệt vời.
+Tất cả thông tin Khách hàng, Cửa hàng, Ngày hẹn trả, Tồn kho, Trạng thái, .... đều đầy đủ, giúp cho bạn quản lí quà tặng trong mỗi đợt Khuyến mãi một cách đơn giản chỉ với vài thao tác.
+
+Rất đơn giản phải không, Nhanh.vn chúc bạn thành công và có một trải nghiệm tuyệt vời.
