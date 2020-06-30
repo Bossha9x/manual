@@ -49,6 +49,7 @@ Anh/chị đăng xuất phần mềm ra, đăng nhập lại và ấn nút tải
 # 9. Vpage có tính năng trả lời tự động không?
 Hiện tại Vpage không có tính năng trả lời tự động. Trước đây phần mềm đã có tính năng này nhưng do chính sách của Facebook hạn chế spam nên tạm thời tính năng đã bị tắt để tránh Facebook quét.
 Vpage có tính năng trả lời tự động bình luận bằng một tin nhắn riêng 
+
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/vpage/img/Tl%20t%E1%BB%B1%20%C4%91%E1%BB%99ng.png)
 
 # 10. Vpage có quản lý được trên trang cá nhân không?
