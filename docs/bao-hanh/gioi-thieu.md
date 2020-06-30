@@ -92,7 +92,7 @@ Trong Danh sách bảo hành tích chọn phiếu bảo hành sản phẩm ==> v
 
 ==> In phiếu trả bảo hành đưa cho khách hàng.
 
-Một số câu hỏi thường gặp:
+#### Một số câu hỏi thường gặp:
 
 -  Có thể trả lại hàng bảo hành sửa chữa cho khách hàng trong trường hợp nào?
 
