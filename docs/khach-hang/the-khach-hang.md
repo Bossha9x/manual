@@ -53,5 +53,7 @@ Sau khi gắn khách hàng vào thẻ, danh sách thẻ sẽ hiển thị đầy
   * Khách hàng làm mất thẻ
   * Nếu bạn in mỗi cấp độ khách hàng (VIP / Vàng / Bạc) một loại thẻ khác nhau, khi khách nâng hạng cần đổi thẻ.
 * Các thao tác để đổi thẻ khách hàng:
-  * Đang cập nhật
+Bạn truy cập vào trang chi tiết khách hàng sau đó nhấn vào icon ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/img/but-chi.jpg) để đổi mã thẻ
+
+![Đổi mã thẻ khách hàng](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/khach-hang/img/doi-the-khach-hang-1a.jpg)
   
