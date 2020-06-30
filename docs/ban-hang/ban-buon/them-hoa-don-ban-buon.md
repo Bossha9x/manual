@@ -56,3 +56,7 @@ Khi khách hàng mua hàng bằng cách chuyển khoản thì trong phần mềm
 Cái này chỉ áp dụng cho doanh nghiệp có sử dụng Module Kế toán trên phần mềm, thao tác thực hiện như sau
 
 Đầu tiên vào Module Kế toán > Thu chi tiền mặt/ Thu chi ngân hàng (Tuỳ vào các khoản thu chi của doanh nghiệp tương ứng với TK kế toán)
+
+- Khi mặt hàng đã hết hàng trong kho thì giá bán sẽ được hiển thị như thế nào trên hóa đơn bán buôn, bán lẻ?
+
+Giá bán không bị ảnh hưởng gì. Chỉ ảnh hưởng đến tồn khi thêm hoá đơn bán sản phẩm đó nếu Doanh nghiệp đó cho phép bán hàng âm
