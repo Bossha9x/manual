@@ -90,9 +90,9 @@
 * [Cấp độ khách hàng](khach-hang/cap-do-khach-hang.md)
 * [Thẻ khách hàng](khach-hang/the-khach-hang.md)
 * Chăm sóc khách hàng
-  * [Chăm sóc khách hàng](khach-hang/cham-soc-khach-hang.md)
-  * [Hình thức chăm sóc](khach-hang/hinh-thuc-cham-soc.md)
-  * [Lý do chăm có](khach-hang/ly-do-cham-soc.md)
+  * [Chăm sóc khách hàng](khach-hang/cham-soc-khach-hang/cham-soc-khach-hang.md)
+  * [Hình thức chăm sóc](khach-hang/cham-soc-khach-hang/hinh-thuc-cham-soc.md)
+  * [Lý do chăm có](khach-hang/cham-soc-khach-hang/ly-do-cham-soc.md)
 
 ## Website
 
