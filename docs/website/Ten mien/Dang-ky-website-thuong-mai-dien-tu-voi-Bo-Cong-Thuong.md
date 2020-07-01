@@ -14,3 +14,21 @@ Quy trình đăng ký cần có mã số thuế cá nhân (MSTCN) của người
 - Cá nhân hoặc người đại diện hộ gia đình gửi Giấy đề nghị đăng ký hộ kinh doanh đến cơ quan Đăng ký kinh doanh cấp huyện nơi đặt địa điểm kinh doanh. Thời gian chờ giấy đăng ký kinh doanh hộ cá thể là 05 ngày làm việc.
 - Tham khảo quy trình đăng ký hộ kinh doanh cá thể chi tiết [tại đây](http://www.mediafire.com/file/6cv2zn7xibm3iic/TH%25E1%25BB%25A6_T%25E1%25BB%25A4C_%25C4%2590%25C4%2582NG_K%25C3%259D_H%25E1%25BB%2598_KINH_DOANH_C%25C3%2581_TH%25E1%25BB%2582.docx/file)
 
+## QUY TRÌNH ĐĂNG KÝ WEBSITE BÁN HÀNG 
+
+### BƯỚC 1: ĐĂNG KÝ TÀI KHOẢN
+
+- B1: Truy cập vào đường link:  [http://www.online.gov.vn/](http://www.online.gov.vn/)
+
+- B2: Click vào nút “Đăng ký” để tiến hành đăng ký tài khoản hoặc [vào đây](http://www.online.gov.vn/Account/RegisterCompany):
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/dang-ky-web-bo-cong-thuong1.PNG)
+
+- B3: Sau khi click vào nút **Đăng ký** giao diện làm việc hiển thị như sau :
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/dang-ky-web-bo-cong-thuong2.PNG)
+
+
+
+
+
