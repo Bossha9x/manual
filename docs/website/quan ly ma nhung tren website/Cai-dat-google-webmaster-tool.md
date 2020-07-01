@@ -27,13 +27,14 @@ Tích chọn Thẻ HTML, copy đoạn mã bên trong dấu ngoặc kép (content
 * Bạn vào trang [cài đặt website](https://nhanh.vn/website/content/config)
 * Chuyển sang tab Facebook/Google, paste đoạn mã ở trên vào mục Google Site Verification, click Lưu
 * Chuyển sang tab Sitemap | Feed, click nút Tạo sitemap, chờ cho hệ thống tạo xong sitemap.
-* Click vào nút Sơ đồ trang web (như hình dưới)
-
-![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/tich-hop-google-webmaster3.png)
 
 ### Xác minh
 
-* Quay trở lại trang Google, click Xác minh. Có thông báo như hình dưới là thành công. Click Tiếp tục
+* Quay trở lại trang Google, click vào nút Sơ đồ trang web (như hình dưới)
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/tich-hop-google-webmaster3.png)
+
+* Click Xác minh. Có thông báo như hình dưới là thành công. Click Tiếp tục
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/tich-hop-google-webmaster2.png)
 
