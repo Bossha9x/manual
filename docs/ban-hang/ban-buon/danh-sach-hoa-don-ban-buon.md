@@ -6,7 +6,11 @@ Danh sách hóa đơn bán buôn dùng để quản lý toàn bộ hóa đơn b�
 
 Để truy cập vào Danh sách hóa đơn bán buôn, bạn truy cập theo thứ tự module Bán hàng / Hóa đơn bán buôn; hoặc truy cập [tại đây.](https://nhanh.vn/pos/bill/wholesale)
 
-## Giao diện danh sách hoá đơn bán buôn:
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/ban-hang/img/danh-sach-ban-buon.gif)
+
+
+**Giao diện danh sách hoá đơn bán buôn:**
 
 
 ![](https://raw.githubusercontent.com/hieunguyenduc-nhanh/manual/patch-4/docs/ban-hang/img/Danh-sach-hoa-don-ban-buon.jpg.png)
@@ -26,12 +30,6 @@ Bộ lọc Danh sách hóa đơn bán buôn gồm các trường lọc sau:
 Cho phép người dùng xuất Excel bảng Danh sách hóa đơn bán buôn với cá tùy chọn xuất Excel trang hiện tại hoặc tất cả các trang, và xuất Excel bản đầy đủ thông tin và bản thường.
 
 **Bảng danh sách hóa đơn bán buôn:**
-
-Bảng này gồm các cột:
-
-
-<img src="https://raw.githubusercontent.com/nhanhapi/manual/master/docs/ban-hang/img/danh-sach.gif" width="900" height="450" />
-
 
  Ở hàng cuối cùng của bảng là hàng tính tổng số lượng sản phẩm, tổng VAT, tổng tiền chiết khấu, tổng tiền thanh toán và tổng số tiền     còn nợ của tất cả các hóa đơn bán lẻ của doanh nghiệp.
 
