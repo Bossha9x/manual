@@ -4,15 +4,14 @@ Trang chi tiết đơn hàng giúp bạn theo dõi toàn bộ thông tin chi ti�
 
 Để vào trang chi tiết đơn hàng, bạn bấm nút theo từng ID đơn hàng cụ thể tại cột ID đơn hàng trong [Danh sách đơn hàng](https://new.nhanh.vn/order/manage/index).
 
-Chi tiết đơn hàng bao gồm 5 tab đầy đủ: Thông tin, Lịch trình,  In & Đóng gói, Thanh toán, Khiếu nại.
-
+Chi tiết đơn hàng bao gồm 5 tab đầy đủ: Thông tin, Lịch trình,  In & Đóng gói, Thanh toán, Khiếu nại. Đối với đơn hàng tự vận chuyển sẽ không có tab Lịch trình và tab Thanh toán
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/chi-tiet-don-hang-9.png)
 
 # Thông tin Đơn hàng
 
 ![Giao diện làm việc của tab Thông tin đơn hàng](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/chi-tiet-don-hang-1.png)
 
-Thông tin đơn hàng là tab hiển thị chi tiết các thông tin về doanh nghiệp, khách hàng, sản phẩm, cước phí, lịch trình vận chuyển để doanh nghiệp nắm bắt được chính xác từng giai đoạn, lịch trình và thời gian thực hiện đơn hàng
+Thông tin đơn hàng là tab hiển thị chi tiết các thông tin về doanh nghiệp, khách hàng, sản phẩm, cước phí, lịch trình vận chuyển để bạn nắm bắt được chính xác từng giai đoạn, lịch trình và thời gian thực hiện đơn hàng
 
 ## Lịch trình đơn hàng
 
@@ -24,7 +23,7 @@ Tab lịch trình vận chuyển thể hiện lịch trình vận chuyển của
 
 ## In và đóng gói
 
-**Tab này cho phép doanh nghiệp in phiếu gửi đơn hàng với nhiều kích cỡ, loại giấy khác nhau.**
+**Tab này cho phép bạn in phiếu gửi đơn hàng với nhiều kích cỡ, loại giấy khác nhau.**
 
 ![Giao diện làm việc của tab In và đóng gói](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/chi-tiet-don-hang-3.png)
 
@@ -46,9 +45,6 @@ Giao diện làm việc của tab này như sau:
 
 --> Xem hướng dẫn [Khiếu nại đơn hàng](https://manual.nhanh.vn/don-hang/khieu-nai-don-hang)
 
-
-**Lưu ý:**
-- Đối với đơn hàng tự vận chuyển sẽ không có tab Lịch trình và tab Thanh toán
 
 Để thêm khiếu nại, người dùng bấm nút vào nút ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/chi-tiet-don-hang-5.png)  để hiện ra bảng thêm khiếu nại:
 
