@@ -64,7 +64,7 @@ Doanh nghiệp click vào tên file mẫu: Logistics_Import_Order.xlsm để t�
 
 Giao diện làm việc của tab này hoàn toàn giống với tab "Dùng hãng vận chuyển" và cũng có 2 cách để thêm mới đơn hàng.
 
-### Đối với đơn hàng chưa chốt được sản phẩm: Sử dụng tính năng Đơn hàng nháp
+## Đối với đơn hàng chưa chốt được sản phẩm: Sử dụng tính năng Đơn hàng nháp
 
 - Đơn nháp là đơn chỉ yêu cầu điền **số điện thoại khách hàng**, không yêu cầu điền đầy đủ các thông tin khác.
 
