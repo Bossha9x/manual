@@ -105,13 +105,12 @@
 * [Album](website/album.md)
 * [Liên hệ](website/lien-he.md)
 * Quản lý mã nhúng
-  * [Thêm hiệu ứng bông tuyết, hoa đào rơi trên website](website/quan%20ly%20ma%20nhung%20tren%20website/cach-them-hieu-ung-bong-tuyet-hoa-dao-roi-tren-website.md)
-  * [Tích hợp Facebook chat trên Webiste (miễn phí)](website/quan%20ly%20ma%20nhung%20tren%20website/tich-hop-facebook-chat-tren-website.md)
+  * [Cài đặt Facebook chat trên Webiste](website/quan%20ly%20ma%20nhung%20tren%20website/tich-hop-facebook-chat-tren-website.md)
   * [Cách sử dụng vchat](website/quan%20ly%20ma%20nhung%20tren%20website/cach-su-dung-vchat.md)
-  * [Cài đặt Google Analytics cho website](website/quan%20ly%20ma%20nhung%20tren%20website/cat-dat-google-analytics-cho-website.md)
-  * [Tích hợp chat Zalo vào website](website/quan%20ly%20ma%20nhung%20tren%20website/Tich-hop-chat-zalo-vao-website.md)
-  * [Cài đặt Google Webmaster Tool (Google Search Console) cho website](website/quan%20ly%20ma%20nhung%20tren%20website/Cai-dat-google-webmaster-tool-cho-website.md)
-
+  * [Cài đặt Google Analytics](website/quan%20ly%20ma%20nhung%20tren%20website/cat-dat-google-analytics-cho-website.md)
+  * [Cài đặt chat Zalo](website/quan%20ly%20ma%20nhung%20tren%20website/Tich-hop-chat-zalo-vao-website.md)
+  * [Cài đặt Google Webmaster Tool](website/quan%20ly%20ma%20nhung%20tren%20website/Cai-dat-google-webmaster-tool.md)
+  * [Thêm hiệu ứng bông tuyết, hoa đào rơi](website/quan%20ly%20ma%20nhung%20tren%20website/cach-them-hieu-ung-bong-tuyet-hoa-dao-roi-tren-website.md)
 
 
 ## Khuyến mãi
