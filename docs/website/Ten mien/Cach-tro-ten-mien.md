@@ -31,7 +31,7 @@ Bạn có thể kiểm tra xem tên miền đã về địa chỉ IP hosting m�
 
 - Cách 1: Trên Windows bấm nút Windows + R, gõ cmd và nhấn Enter, gõ: ping địa chỉ tên miền xong nhấn Enter (VD: ping captot.vn)
 
-- Cách 2: Vào trang https://ipinfo.info/html/ip_checker.php nhập địa chỉ tên miền của bạn xong nhấn nút Check. Khi dòng IP Address có giá trị 104.155.234.35 nghĩa là bạn tên miền đã được trỏ thành công về hosting của Nhanh.vn
+- Cách 2: Vào trang https://ipinfo.info/html/ip_checker.php nhập địa chỉ tên miền của bạn xong nhấn nút **Check**. Khi dòng IP Address có giá trị **104.155.234.35** nghĩa là bạn tên miền đã được trỏ thành công về hosting của Nhanh.vn
 
 Bạn nên kiểm tra cả tên miền chính (VD captot.vn) và bản ghi www (VD: www.captot.vn) để đảm bảo chắc chắn cả 2 tên miền đã trỏ thành công.
 
