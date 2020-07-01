@@ -2,9 +2,9 @@
 
 Bao gồm  các hướng dẫn về tên miền của doanh nghiệp,bao gồm:
 
- - [Hướng dẫn trỏ tên miền ](https://github.com/nhanhapi/manual/blob/master/docs/website/Ten%20mien/Cach-tro-ten-mien.md)
- - [Hướng dẫn đăng ký website thương mại điện tử với Bộ Công Thương ](https://github.com/nhanhapi/manual/blob/master/docs/website/Ten%20mien/Dang-ky-website-thuong-mai-dien-tu-voi-Bo-Cong-Thuong.md)
- - [Hướng dẫn cài đặt email dạng ten@tenmien](https://github.com/nhanhapi/manual/blob/master/docs/website/Ten%20mien/cai-dat-email-ten%40tenmien.md)
+ - [Hướng dẫn trỏ tên miền ](https://manual.nhanh.vn/website/ten-mien/cach-tro-ten-mien)
+ - [Hướng dẫn đăng ký website thương mại điện tử với Bộ Công Thương ](https://manual.nhanh.vn/website/ten-mien/dang-ky-website-thuong-mai-dien-tu-voi-bo-cong-thuong)
+ - [Hướng dẫn cài đặt email dạng ten@tenmien](https://manual.nhanh.vn/website/ten-mien/cai-dat-email-ten-tenmien)
 
 # Giới thiệu về Tên miền
 
