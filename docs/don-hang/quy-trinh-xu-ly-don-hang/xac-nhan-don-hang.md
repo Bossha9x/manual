@@ -3,7 +3,7 @@
 Nhân viên telesale có thể gọi điện cho khách để xác nhận lại một số thông tin về đơn hàng như: tên sản phẩm, số lượng sản phẩm, thông tin khách hàng, hình thức thanh toán, thông tin phí vận chuyển,...Sau đó sẽ thay đổi trạng thái xác nhận trên hệ thống.
 
 ## QUY TRÌNH XÁC NHẬN ĐƠN HÀNG
-**Bước 1**: Kiểm tra lại các đơn hàng trùng để tránh tình trạng đóng gói và gửi hàng nhiều lần cho cùng một khách hàng vào phần [đơn trùng](https://manual.nhanh.vn/don-hang/gioi-thieu#xu-ly-don-hang) hoặc truy cập [tại đây.](https://new.nhanh.vn/order/manage/checkduplicate)
+**Bước 1**: Kiểm tra lại các đơn hàng trùng để tránh tình trạng đóng gói và gửi hàng nhiều lần cho cùng một khách hàng vào phần [đơn trùng](https://nhanh.vn/order/manage/checkduplicate), xem hướng dẫn [tại đây.](https://manual.nhanh.vn/don-hang/gioi-thieu#xu-ly-don-hang)
 
 Nhân viên bấm vào những đơn hàng Mới (chưa có ai xác nhận) và những đơn hàng Chờ khách xác nhận (chưa gọi được cho khách) để xác nhận các đơn hàng đó.
 
