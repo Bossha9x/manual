@@ -33,10 +33,6 @@ Bảng này gồm các cột:
 <img src="https://raw.githubusercontent.com/nhanhapi/manual/master/docs/ban-hang/img/danh-sach.gif" width="900" height="450" />
 
 
-
-![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/ban-hang/img/danh-sach.gif)
-
-
  Ở hàng cuối cùng của bảng là hàng tính tổng số lượng sản phẩm, tổng VAT, tổng tiền chiết khấu, tổng tiền thanh toán và tổng số tiền     còn nợ của tất cả các hóa đơn bán lẻ của doanh nghiệp.
 
 **Trang chi tiết hóa đơn bán buôn:**
@@ -47,4 +43,4 @@ Giao diện của trang chi tiết hóa đơn bán buôn cũng tương tự như
 
 Tại sao khi trả hàng bán Buôn lại không có nút tích đổi trả sản phẩm luôn trong trang chi tiết hoá đơn như bán Lẻ mà lại phải thao tác Trả hàng 2 lần?
 
-- 
+- Thường bán buôn thì không cho đổi hàng nên phần mềm sẽ không có.
