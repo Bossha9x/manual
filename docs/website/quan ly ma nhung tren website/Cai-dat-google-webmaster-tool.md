@@ -2,11 +2,11 @@
 
 ## Giới thiệu
 
-* Google Webmaster Tool (hay còn gọi là Google Search Console) là công cụ giúp bạn phân tích được hành vi người dùng truy cập vào trang web từ Google, ví dụ:
+Google Webmaster Tool (hay còn gọi là Google Search Console) là công cụ giúp bạn phân tích được hành vi người dùng truy cập vào trang web từ Google, ví dụ:
 
-  * Người dùng seach từ khóa nào để click vào trang web của bạn.
-  * Trang web nằm ở vị trí nào trong kết quả tìm kiếm của Google.
-  * Tỉ lệ phần trăm số lần hiển thị dẫn đến nhấp chuột.
+* Người dùng seach từ khóa nào để click vào trang web của bạn.
+* Trang web nằm ở vị trí nào trong kết quả tìm kiếm của Google.
+* Tỉ lệ phần trăm số lần hiển thị dẫn đến nhấp chuột.
 
 ## Các bước cài đặt
 
