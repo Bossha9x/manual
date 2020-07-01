@@ -16,7 +16,8 @@ Cách tích hợp vChat lên website do Nhanh.vn cung cấp
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/su-dung-vchat2.png)
 
-Bước 3. Trực vChat
+## Bước 3. Trực vChat
+
 Để trả lời tin nhắn khách chat vào vChat, doanh nghiệp truy cập vào https://vchat.vn/home/support_v2.php, giao diện làm việc như sau:
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/su-dung-vchat3.png)
