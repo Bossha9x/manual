@@ -9,7 +9,7 @@ Các nghiệp vụ cần thực hiện khi doanh nghiệp kinh doanh sản phẩ
 - Nhập IMEI
 - Quản lý danh sách IMEI
 - Theo dõi lịch sử IMEI
-**Tình huống sử dụng**
+## Tình huống sử dụng
 - Bạn kinh doanh điện thoại, nhập về 50 chiếc iPhone từ nhà cung cấp A
 ==> cần phải ghi lại IMEI từng máy - để tránh lẫn với Iphone nhập từ nhà cung cấp B với giá nhập khác
 
@@ -18,33 +18,33 @@ Các nghiệp vụ cần thực hiện khi doanh nghiệp kinh doanh sản phẩ
 
 - Giá bán 1 dòng điện thoại luôn có xu hướng ngày càng rẻ, giá nhập cũng ngày càng rẻ
 ==> cần ưu tiên những IMEI nhập trước bán trước, nhập sau bán sau (cần theo dõi lịch sử IMEI), tính giá vốn đích danh theo từng IMEI.
-**Quy trình quản lý sản phẩm theo IMEI trên phần mềm Nhanh.vn**
-## Tạo sản phẩm IMEI
+## Quy trình quản lý sản phẩm theo IMEI trên phần mềm Nhanh.vn
+### Tạo sản phẩm IMEI
 Tương tự như tạo sản phẩm thông thường trên, tuy nhiên ở trường Loại sản phẩm, bạn chọn Sảm phẩm IMEI.
 Đặc biệt lưu ý: Với loại sản phẩm IMEI thì KHÔNG nhập số lượng khi tạo sản phẩm.
 Số lượng sản phẩm sẽ tương ứng với số IMEI mà bạn nhập vào ở bước Nhập nhà cung cấp.
-## Nhập IMEI
+### Nhập IMEI
 Nhập IMEI tại bước Nhập sản phẩm từ nhà cung cấp, quy trình như sau:
 Nhập tên sản phẩm ==> nhập IMEI ==> mỗi IMEI tương ứng với số lượng là 1 sản phẩm
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/san-pham/img/sp-ynghia-imei-1.png)
 
 Xem chi tiết hướng dẫn nhập sản phẩm từ nhà cung cấp tại [đây](https://manual.nhanh.vn/kho-hang/nhap-hang).
-## Danh sách IMEI
+### Danh sách IMEI
 Sau khi nhập IMEI lên phần mềm, bạn truy cập lần lượt vào Sản phẩm / IMEI / Danh sách IMEI, hoặc truy cập tại đây để quản lý các IMEI.
 Giao diện làm việc của danh sách IMEI như sau:
 Ảnh ![]()
-### Bộ lọc: Cho phép bạn thực hiện thao tác lọc danh sách IMEI theo nhiều tiêu chí khác nhau
+#### *Bộ lọc: Cho phép bạn thực hiện thao tác lọc danh sách IMEI theo nhiều tiêu chí khác nhau
 
-### Thông tin trong Danh sách IMEI: Có một số lưu ý:
+#### Thông tin trong Danh sách IMEI: *Có một số lưu ý:
 
 * Trạng thái của IMEI được hệ thống tự động cập nhật theo các thao tác bán hàng, chuyển hàng, bảo hành...
 * Kích hoạt IMEI dùng để đánh dấu là đã kích hoạt bảo hành trên hãng rồi, không dùng để tính ngày bắt đầu bảo hành.
 * Trạng thái Kích hoạt giúp bạn phân biệt được các IMEI nào đã bán ra rồi + đã lên web của hãng kích hoạt rồi. Còn những IMEI bán rồi chưa kích hoạt thì cần làm thao tác này.
-## Theo dõi lịch sử IMEI.
+### Theo dõi lịch sử IMEI.
 Bạn truy cập lần lượt  Sản phẩm / IMEI / Lịch sử IMEI hoặc truy cập tại [đây]()
 Lịch sử IMEI là module cho phép bạn quản lý toàn bộ hành động đối với 1 sản phẩm được gắn 1 IMEI cụ thể.
-**Tình huống sử dụng:**
+**Ví dụ thực tế:**
 - Khách hàng mang 1 chiếc iPhone đến bảo hành, sửa chữa, doanh nghiệp cần check xem IMEI đó nhập từ nhà cung cấp nào, giá bao nhiêu, còn bảo hành hay không, đã từng bảo hành/sửa chữa trước đó hay chưa, nếu rồi thì do máy bị lỗi gì...
 Để truy cập module này, bạn lần lượt thao tác vào Sản phẩm / IMEI / Lịch sử IMEI, hoặc truy cập tại đây.
 Giao diện làm việc của module này như sau:
