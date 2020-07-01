@@ -30,6 +30,10 @@ Cho phép người dùng xuất Excel bảng Danh sách hóa đơn bán buôn v�
 Bảng này gồm các cột:
 
 
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="850" height="500" />
+
+
+
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/ban-hang/img/danh-sach.gif)
 
 
