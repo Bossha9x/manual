@@ -86,6 +86,7 @@
 
 ![Điền token EcoTrans](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-ecotrans-1a.jpg)
 
+*
 
 ---
 
@@ -96,9 +97,15 @@
 
 ### Kết nối EMS
 
+* Đang cập nhật
+
 ### Kết nối BEST
 
+* Đang cập nhật
+
 ### Kết nối DHL
+
+* Đang cập nhật
 
 ### Kết nối Shippo
 
