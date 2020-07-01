@@ -97,6 +97,15 @@
 ## Website
 
 * [Giới thiệu](website/gioi-thieu.md)
+* [Nội dung website](website/noi-dung-website.md)
+* [Cài đặt website](website/cat-dat-website.md)
+* [Menu](website/quan-ly-menu.md)
+* [Tin tức](website/quan-ly-tin-tu-tren-website.md)
+* [Banner](website/banner.md)
+* [Album](website/album.md)
+* [Liên hệ](website/lien-he.md)
+
+
 
 ## Khuyến mãi
 
