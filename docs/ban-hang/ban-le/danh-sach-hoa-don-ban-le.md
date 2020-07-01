@@ -19,7 +19,7 @@ Bộ lọc sẽ được chia theo từng cột như sau:
 ### Danh sách bảng hoá đơn bán lẻ:
 
 
-![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/ban-hang/img/danh-sach-hoa-don-ban-le.png)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/ban-hang/img/danh-sach-ban-le.jpg)
 
 
 Hiển thị thông tin các hóa đơn bán lẻ của doanh nghiệp.
