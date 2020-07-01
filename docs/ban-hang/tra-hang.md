@@ -46,7 +46,7 @@ Nếu giá trị sản phẩm đổi nhỏ hơn hoặc bằng sản phẩm trả
 
 Trong trường hợp khách mua hàng và trả hàng ở 2 cửa hàng khác nhau hoặc khách không nhớ ID hóa đơn, bạn sử dụng tính năng này.
 
-Bạn vào Bán hàng/ Trả hàng/ Trả hàng không cần hóa đơn, hoặc truy cập [tại đây](https://new.nhanh.vn/inventory/bill/addreturn) 
+Bạn vào Bán hàng/ Trả hàng/ Trả hàng không cần hóa đơn, hoặc truy cập [tại đây](https://nhanh.vn/inventory/bill/addreturn) 
 
 Giao diện trả hàng không cần hóa đơn xuất hiện như sau:
 
