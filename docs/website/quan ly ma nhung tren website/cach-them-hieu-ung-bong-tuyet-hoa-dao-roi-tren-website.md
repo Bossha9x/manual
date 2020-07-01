@@ -9,7 +9,7 @@ Bước 2: Paste 1 trong 3 đoạn mã này vào (trạng thái: Hoạt động;
 
 
 
-![Mã: **<script type="text/javascript" src="//nhanh.vn/js/events/snow.js"></script>**](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/hieu-ung-bong-tuyet-nho.png)
+![Mã: <script type="text/javascript" src="//nhanh.vn/js/events/snow.js"></script>](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/hieu-ung-bong-tuyet-nho.png)
 
 **Tuyết rơi (bông tuyết lớn):**
 
