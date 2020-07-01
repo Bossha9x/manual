@@ -60,6 +60,10 @@ Doanh nghiệp click vào tên file mẫu: Logistics_Import_Order.xlsm để t�
 
 *(Đang cập nhật, hệ thống chưa có)*
 
+### Import trạng thái đơn hàng bằng excel
+
+*(Đang cập nhật)
+
 ## Đối với doanh nghiệp tự vận chuyển
 
 Giao diện làm việc của tab này hoàn toàn giống với tab "Dùng hãng vận chuyển" và cũng có 2 cách để thêm mới đơn hàng.
