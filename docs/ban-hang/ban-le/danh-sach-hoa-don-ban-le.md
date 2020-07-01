@@ -38,7 +38,7 @@ Chiết khấu | Hiển thị số tiền và số % chiết khấu cho hóa đ�
 Tổng tiền | Tổng tiền khách hàng phải thanh toán (sau khi đã trừ chiết khấu, tiền tích điểm,..).
 Thanh toán | Hiển thi số tiền khách thanh toán và hình thức thanh toán (tiền mặt, chuyển khoản, quẹt thẻ, trả góp...).
 Mô tả | Hiển thị thông tin khuyến mãi, tặng điểm tích lũy, Vpoint; mô tả thêm của nhân viên bán hàng/ nhân viên thu ngân.
-In | Cho phép người dùng nhấp chuột vào biểu tượng ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/ban-hang/img/may-in.png)  để in hóa đơn bán lẻ.
+In | Cho phép người dùng nhấp chuột vào biểu tượng ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/ban-hang/img/in-hd.png)  để in hóa đơn bán lẻ.
 
 
 Ở hàng cuối cùng của bảng là hàng tính tổng số lượng sản phẩm, tổng VAT, tổng tiền chiết khấu, tổng tiền phải thu, tổng tiền thanh toán và tổng số tiền còn nợ của tất cả các hóa đơn bán lẻ của doanh nghiệp.
