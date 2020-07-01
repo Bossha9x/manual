@@ -3,7 +3,7 @@ Nhanh.vn cho phép doanh nghiệp thêm các đoạn mã nhúng Javascrip / CSS 
 
 Các nghiệp vụ cơ bản:
 
-## 1. Thêm mã nhúng
+## Thêm mã nhúng
 
 Để thêm mã nhúng, bạn truy cập lần lượt vào Website / [Mã nhúng Javascript](https://new.nhanh.vn/website/script/index) | CSS / click nút [Thêm mới](https://new.nhanh.vn/website/script/index?tab=add)
 
@@ -13,11 +13,11 @@ Các nghiệp vụ cơ bản:
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/thong-tin-ma-nhung.png)
 
-##  2. Danh sách mã nhúng: https://new.nhanh.vn/website/script/index giúp bạn quản lý tất cả các mã nhúng trên website.
+## Danh sách mã nhúng: https://new.nhanh.vn/website/script/index giúp bạn quản lý tất cả các mã nhúng trên website.
 
 Trong trường hợp đã nhúng mà chưa thấy mã hoạt động, bạn click vào Hành động / chọn Xóa cache
 
-## 3. Các hướng dẫn liên quan:
+## Các hướng dẫn liên quan:
 
 - [Hướng dẫn add Google Analytics](https://manual.nhanh.vn/website/quan-ly-ma-nhung/cat-dat-google-analytics-cho-website)
 - [Cài đặt facebook chat](https://manual.nhanh.vn/website/quan-ly-ma-nhung/tich-hop-facebook-chat-tren-website)
