@@ -45,14 +45,14 @@
 ## Kho hàng
 
 * [Giới thiệu](kho-hang/gioi-thieu.md)
-* [Chuyển kho](kho-hang/chuyen-kho.md)
-* [Dự báo nhập hàng](kho-hang/du-bao-nhap-hang.md)
-* [Hạn mức tồn kho](kho-hang/han-muc-ton-kho.md)
-* [Kiểm kho](kho-hang/kiem-kho.md)
-* [Nhập hàng](kho-hang/nhap-hang.md)
-* [Phiếu nháp xuất nhập kho](kho-hang/phieu-nhap-xuat-nhap-kho.md)
-* [Quản lý vị trí sản phẩm trong kho](kho-hang/quan-ly-vi-tri-san-pham-trong-kho.md)
+* [Nhập hàng nhà cung cấp](kho-hang/nhap-hang.md)
 * [Trả hàng cho nhà cung cấp](kho-hang/tra-hang-cho-nha-cung-cap.md)
+* [Chuyển kho](kho-hang/chuyen-kho.md)
+* [Kiểm kho](kho-hang/kiem-kho.md)
+* [Phiếu nháp xuất nhập kho](kho-hang/phieu-nhap-xuat-nhap-kho.md)
+* [Hạn mức tồn kho](kho-hang/han-muc-ton-kho.md)
+* [Vị trí sản phẩm trong kho](kho-hang/quan-ly-vi-tri-san-pham-trong-kho.md)
+* [Dự báo nhập hàng](kho-hang/du-bao-nhap-hang.md)
 
 ## Bán hàng
 
