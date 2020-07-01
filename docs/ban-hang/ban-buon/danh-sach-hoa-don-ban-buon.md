@@ -29,9 +29,6 @@ Cho phép người dùng xuất Excel bảng Danh sách hóa đơn bán buôn v�
 
 Bảng này gồm các cột:
 
-<img src="https://raw.githubusercontent.com/nhanhapi/manual/master/docs/ban-hang/img/danh-sach.gif" width="1166" height="568" />
-Yields: 
-
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/ban-hang/img/danh-sach.gif)
 
