@@ -8,7 +8,7 @@
   * Trang web nằm ở vị trí nào trong kết quả tìm kiếm của Google.
   * Tỉ lệ phần trăm số lần hiển thị dẫn đến nhấp chuột.
 
-## Các bước cài đặt Google WebMaster Tool
+## Các bước cài đặt
 
 ### Cài đặt tại Google
 
@@ -18,7 +18,7 @@
 ![Thêm trang web](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/tich-hop-google-webmaster.png)
 
 * Chuyển sang tab Các phương thức thay thế
-Tích chọn Thẻ HTML, copy đoạn mã bên trong dấu ngoặc kép (content="..."). Chú ý bạn không tắt trang này này, sẽ cần dùng tiếp ở bước sau.
+Tích chọn Thẻ HTML, copy đoạn mã bên trong dấu ngoặc kép (content="..."). *Chú ý bạn không tắt trang này này, sẽ cần dùng tiếp ở bước sau.*
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/tich-hop-google-webmaster1.png)
 
@@ -26,21 +26,21 @@ Tích chọn Thẻ HTML, copy đoạn mã bên trong dấu ngoặc kép (content
 
 * Bạn vào trang [cài đặt website](https://nhanh.vn/website/content/config)
 * Chuyển sang tab Facebook/Google, paste đoạn mã ở trên vào mục Google Site Verification, click Lưu
-* Quay trở lại trang Google, click Xác minh. Có thông báo như hình dưới là thành công. Click Tiếp tục
-
-![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/tich-hop-google-webmaster2.png)
-
 * Chuyển sang tab Sitemap | Feed, click nút Tạo sitemap, chờ cho hệ thống tạo xong sitemap.
 * Click vào nút Sơ đồ trang web (như hình dưới)
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/tich-hop-google-webmaster3.png)
 
-* Quay lại trang Google
+## Xác minh
 
-  * Click Thêm/Kiểm tra sơ đồ trang web
+* Quay trở lại trang Google, click Xác minh. Có thông báo như hình dưới là thành công. Click Tiếp tục
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/tich-hop-google-webmaster2.png)
+
+* Click Thêm/Kiểm tra sơ đồ trang web
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/tich-hop-google-webmaster4.png)
 
-  * Nhập chữ "sitemap.xml", sau đó click Gửi để hoàn tất
+* Nhập chữ "sitemap.xml", sau đó click Gửi để hoàn tất
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/tich-hop-google-webmaster5.png)
