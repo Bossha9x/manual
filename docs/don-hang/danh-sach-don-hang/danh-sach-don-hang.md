@@ -36,6 +36,7 @@ Xem thêm chi tiết về Bộ lọc [tại đây](https://manual.nhanh.vn/don-h
   
   ## Thông tin đơn hàng
   
+  Giao diện mặc định của tab thông tin đơn hàng
  
   ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/danh-sach-don-hang-1.png)
   
@@ -50,3 +51,5 @@ Xem thêm chi tiết về Bộ lọc [tại đây](https://manual.nhanh.vn/don-h
 - **Tổng thu:** Là tổng thu của đơn hàng sau khi trừ đi chiết khấu khuyến mại.
 - **Ghi chú:** Hiển thị những ghi chú, mô tả của khách hàng/ nhân viên chăm sóc khách hàng về đơn hàng. Cho phép bấm nút để sửa ngay tại biểu tượng ![Giao diện làm việc](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/danh-sach-don-hang-2.png).
 - **Trạng thái:** Cho phép doanh nghiệp biết được tình trạng của 01 đơn hàng. Xem thêm các trạng thái đơn hàng [tại đây](https://manual.nhanh.vn/don-hang/danh-sach-don-hang#trang-thai-don-hang). Bên dưới trạng thái đơn hàng là nút thao tác nhanh  ![Giao diện làm việc](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/in-dong-goi-3.png), tùy vào trạng thái đơn hàng sẽ có các thao tác khác nhau.
+
+Để cài đặt ẩn hiện các cột, bạn vui lòng bấm nút ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/img/an-hien-cot.jpg) để cài đặt. 
