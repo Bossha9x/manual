@@ -6,6 +6,6 @@ Khi khách hàng để lại thông tin trên website thì dữ liệu của kh�
 
 Vào website->liên hệ hoặc truy cập [vào đây](https://new.nhanh.vn/website/contact/index).
 
-![](https://github.com/nhanhapi/manual/blob/master/docs/website/img/lien-he%201.png)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/lien-he%201.png)
 
 
