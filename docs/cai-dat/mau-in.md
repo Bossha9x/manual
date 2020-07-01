@@ -16,6 +16,6 @@ Với chức năng cài đặt mẫu in, bạn có thể thiết kế mẫu in t
 
 **Bước 3**: Sau khi hoàn chỉnh nội dung, bạn nhấn chuột vào **Lưu cài đặt**.
 
-Các mẫu in do bạn thiết kế sẽ xuất hiện tại [Danh sách mẫu in](https://new.nhanh.vn/store/template/index)
+Các mẫu in do bạn thiết kế sẽ xuất hiện tại [Danh sách mẫu in](https://nhanh.vn/store/template/index)
 
 Video hướng dẫn chi tiết:
