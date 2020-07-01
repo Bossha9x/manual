@@ -7,6 +7,11 @@ Module này gồm 02 nghiệp vụ cơ bản là [Thêm mới banner](https://ne
 ## Thêm mới banner:
 
 Để thêm mới banner, doanh nghiệp truy cập vào Website / Banner / Thêm mới banner hoặc truy cập [tại đây](https://new.nhanh.vn/website/banner/index?tab=add).
+- Điền các thông tin và ấn nút "Lưu"
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/them-moi-banner.PNG)
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/them-moi-banner1.PNG)
 
 Một số khái niệm:
 
@@ -23,6 +28,8 @@ Một số khái niệm:
 Sau khi nhập thông tin cần thiết, doanh nghiệp click Lưu để hoàn tất.
 
 Banner sau khi được thêm mới sẽ xuất hiện tại trang [Danh sách banner](https://new.nhanh.vn/website/banner/index).
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/danh-sach-banner.PNG)
 
 ## Danh sách banner: 
 
