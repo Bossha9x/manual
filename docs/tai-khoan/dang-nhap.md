@@ -1,7 +1,7 @@
 # Đăng nhập vào hệ thống
 Để đăng nhập và sử dụng phần mềm quản lý bán hàng Nhanh.vn bạn thao tác như sau:
 
-Bước 1: Vào trang chủ https://new.nhanh.vn/ sau đó kích vào Đăng nhập ở góc phải màn hình.
+Bước 1: Vào trang chủ https://nhanh.vn/ sau đó kích vào Đăng nhập ở góc phải màn hình.
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/tai-khoan/img/dang-nhap-tai-khoan-1.PNG)
 
