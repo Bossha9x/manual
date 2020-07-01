@@ -46,7 +46,6 @@ Là nơi liệt kê toàn bộ các banner của doanh nghiệp, giúp doanh ngh
 - Mô tả: Hiển thị thông tin mô tả, ghi chú thêm về banner.
 - Ảnh: Click vào biểu tượng ảnh để hiển thị ảnh chi tiết của từng banner.
 - Hiển thị: Thể hiện trạng thái của từng banner: Hiển thị hay Không hiển thị.
-- Sub Link: Dùng để đánh dấu và trỏ link về một danh mục cụ thể khi phân vùng trên banner. Xem thêm tại chú thích (*).
 - Ngày hiển thị/ Ngày hết thúc: Thể hiện ngày hiển thị và ngày hạ banner khỏi website doanh nghiệp.
 - Người tạo: Hiển thị thông tin người tạo banner trên hệ thống.
 - Sửa: Cho phép người dùng chỉnh sửa toàn bộ thông tin của banner.
