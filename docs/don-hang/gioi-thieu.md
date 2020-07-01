@@ -88,7 +88,7 @@ Khi sử dụng vận chuyển trên Nhanh thì các bước 2,3,4 trên là do 
 **2. Xử lý đơn trùng** 
 
 Tính năng này dùng để kiếm tra những đơn hàng của cùng một khách hàng. Từ đó doanh nghiệp có thể tiến hành gộp nhiều đơn thành một đơn cho khách hàng 
-
+- Mặc định hệ thống sẽ lọc đơn trong 2 ngày gần nhất. Bạn có thể chọn lại khoảng ngày này.
 Để gộp đơn hàng, doanh nghiệp thực hiện như sau:
 
 **Bước 1:** Đơn hàng > Đơn trùng > Bấm chọn tổng số lượng đơn
