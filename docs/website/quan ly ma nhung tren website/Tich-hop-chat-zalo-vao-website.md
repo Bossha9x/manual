@@ -10,27 +10,27 @@ Nếu đã có tài khoản Zalo thì Đăng nhập, chưa có thì click Đăng
 ## Bước 3
 Tạo OA (Official Account) mới
 
-### 3.1. Chọn loại tài khoản là Cửa hàng
+### Chọn loại tài khoản là Cửa hàng
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/tich-hop-chat-zalo1.png)
 
-### 3.2. Chọn danh mục tương ứng với website của bạn
+### Chọn danh mục tương ứng với website của bạn
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/tich-hop-chat-zalo2.png)
 
-### 3.3. Nhập thông tin
+### Nhập thông tin
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/tich-hop-chat-zalo3.png)
 
-### 3.4. Chọn ảnh bìa và ảnh đại diện cho OA
+### Chọn ảnh bìa và ảnh đại diện cho OA
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/tich-hop-chat-zalo4.png)
 
-### 3.5. Nhập địa chỉ, sau đó click Hoàn tất
+### Nhập địa chỉ, sau đó click Hoàn tất
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/tich-hop-chat-zalo5.png)
 
-### 3.6. Chờ cho OA được duyệt (thông thường khoảng 1 ngày)
+### Chờ cho OA được duyệt (thông thường khoảng 1 ngày)
 
 Sau khi được duyệt thì khi đăng nhập vào https://oa.zalo.me/home sẽ hiện OA đã tạo
 
