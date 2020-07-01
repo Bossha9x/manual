@@ -112,7 +112,7 @@
   * [Cài đặt Google Analytics](website/quan%20ly%20ma%20nhung%20tren%20website/cat-dat-google-analytics-cho-website.md)
   * [Cài đặt chat Zalo](website/quan%20ly%20ma%20nhung%20tren%20website/Tich-hop-chat-zalo-vao-website.md)
   * [Cài đặt Google Webmaster Tool](website/quan%20ly%20ma%20nhung%20tren%20website/Cai-dat-google-webmaster-tool.md)
-  * [Thêm hiệu ứng bông tuyết, hoa đào rơi](website/quan%20ly%20ma%20nhung%20tren%20website/cach-them-hieu-ung-bong-tuyet-hoa-dao-roi-tren-website.md)
+  * [Thêm hiệu ứng bông tuyết, hoa đào rơi](website/quan%20ly%20ma%20nhung%20tren%20website/them-hieu-ung-bong-tuyet-hoa-dao-roi-tren-website.md)
 * Tên miền
   * [Giới thiệu](website/Ten%20mien/Gioi-thieu.md) 
   * [Cách trỏ tên miền](website/Ten%20mien/Cach-tro-ten-mien.md)
