@@ -6,3 +6,16 @@ Với chức năng cài đặt mẫu in, bạn có thể thiết kế mẫu in t
 
 
 ![Giao diện cài đặt mẫu in bán lẻ](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/giao-dien-cai-dat-mau-in.jpg)
+
+
+Để tùy chỉnh mẫu in, bạn làm như sau:
+
+**Bước 1**: Chọn cửa hàng, mẫu in, khổ giấy.
+
+**Bước 2**: Thiết kế nội dung, có thể sử dụng từ khóa bằng cách nhấn chuột vào ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/tu-khoa-mau-in.jpg) và chọn từ khóa thích hợp.
+
+**Bước 3**: sau khi hoàn chỉnh nội dung, bạn nhấn chuột vào **Lưu cài đặt**.
+
+Các mẫu in do bạn thiết kế sẽ xuất hiện tại [Danh sách mẫu in](https://new.nhanh.vn/store/template/index)
+
+Video hướng dẫn chi tiết:
