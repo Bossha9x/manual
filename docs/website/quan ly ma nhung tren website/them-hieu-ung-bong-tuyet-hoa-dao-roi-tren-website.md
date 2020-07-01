@@ -12,7 +12,9 @@ Bước 2: Paste 1 trong 3 đoạn mã này vào (trạng thái: Hoạt động;
 
 - Tuyết rơi (bông tuyết lớn):
 
+
 <script type="text/javascript" src="//nhanh.vn/js/events/snow2.js"></script>
+
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/hieu-ung-bong-tuyet-lon.png)
 
