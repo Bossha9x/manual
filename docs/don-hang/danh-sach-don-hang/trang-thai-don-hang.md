@@ -1,5 +1,7 @@
 # Trạng thái đơn hàng
 
+Mỗi một đang hàng trên hệ thống Nhanh.vn có 16 trạng thái sau:
+
 **Trạng thái** | **Ý nghĩa**
 ------------ | -------------
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/trang-thai-DH-1.png) | Đơn hàng khách hàng đã đặt hàng chưa qua xử lý
