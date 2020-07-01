@@ -13,18 +13,18 @@ Thì bạn dùng tính năng Khiếu nại để báo Nhanh.vn xử lý các v�
 
 Tại Danh sách đơn hàng, tìm đến đơn hàng cần khiếu nại.
 
-Click nút ![](link) chọn Khiếu nại (Lưu ý chỉ những đơn hàng đã gửi qua hãng vận chuyển mới tạo được khiếu nại)
+Nhấp chuột vào ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/in-dong-goi-3.png) chọn Khiếu nại (Lưu ý chỉ những đơn hàng đã gửi qua hãng vận chuyển mới tạo được khiếu nại)
 
 Chọn lý do khiếu nại và nhập mô tả cụ thể cho khiếu nại đó.
 
 ![Giao diện làm việc của Khiếu nại đơn hàng](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/khieu-nai-1.png)
 
-Click **Thêm** để hoàn tất.
+Nhấp chuột vào **Thêm** để hoàn tất.
 
-Ngoài ra, để thêm nhiều khiếu nại cùng lúc, bạn có thể dùng Import Khiếu nại bằng Excel [tại đây](https://new.nhanh.vn/order/complain/import).
+Ngoài ra, để thêm nhiều khiếu nại cùng lúc, bạn có thể dùng Import Khiếu nại bằng Excel [tại đây](https://nhanh.vn/order/complain/import).
 
 ## Theo dõi quá trình xử lý khiếu nại
 
-Tại danh sách đơn hàng, bạn chuyển sang tab Khiếu nại hoặc truy cập [vào đây](https://new.nhanh.vn/order/manage/complain) để xem các khiếu nại đã tạo đã được xử lý hay chưa, nội dung trả lời khiếu nại là gì.
+Tại danh sách đơn hàng, bạn chuyển sang tab Khiếu nại hoặc truy cập [tại đây](https://nhanh.vn/order/manage/complain) để xem các khiếu nại đã tạo đã được xử lý hay chưa, nội dung trả lời khiếu nại là gì.
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/khieu-nai-2.png)
