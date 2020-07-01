@@ -21,11 +21,11 @@ Ví dụ: Doanh nghiệp mua tên miền "demo.vn" và muốn trỏ tên miền 
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/cach-tro-ten-mien-3.PNG)
 
-Lưu ý: Với tên miền cấp 2, cấp 3, ví dụ store.demo.vn thì trường Name này nhập chữ store, nếu doanh nghiệp muốn trỏ tên là abc.store.demo.vn thì nhập chữ abc.store)
+**Lưu ý:** Với tên miền cấp 2, cấp 3, ví dụ store.demo.vn thì trường Name này nhập chữ store, nếu doanh nghiệp muốn trỏ tên là abc.store.demo.vn thì nhập chữ abc.store)
 
 Đặc biệt lưu ý: Ngoài 2 giá trị @ và www thì không Thêm/ Sửa bất kì 1 giá trị nào khác nếu không hiểu cách hoạt động của nó.
 
-Chú ý: Sau khi bạn trỏ tên miền, tùy vào hệ thống DNS của nhà cung cấp dịch vụ tên miền, có thể mất từ 5 phút tới 3 tiếng để tên miền có thể chuyển sang địa chỉ hosting vừa mới cập nhật.
+**Chú ý:** Sau khi bạn trỏ tên miền, tùy vào hệ thống DNS của nhà cung cấp dịch vụ tên miền, có thể mất từ 5 phút tới 3 tiếng để tên miền có thể chuyển sang địa chỉ hosting vừa mới cập nhật.
 
 Bạn có thể kiểm tra xem tên miền đã về địa chỉ IP hosting mới hay chưa bằng cách:
 
