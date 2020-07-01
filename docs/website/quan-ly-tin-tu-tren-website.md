@@ -4,7 +4,7 @@ Tin tức dùng để thêm mới, sửa, xóa toàn bộ các bài viết/tin t
 
 Bạn truy cập lần lượt vào Website / Tin tức, hoặc truy cập [tại đây](https://new.nhanh.vn/website/article/index)
 
-## 1. Thêm mới danh mục tin tức
+## Thêm mới danh mục tin tức
 
 Danh mục tin tức là tập hợp các bài viết tin tức có cùng một chủ đề (ví dụ Tin thể thao, Tin kinh tế...)
 
@@ -16,7 +16,7 @@ Cách thêm mới danh mục tin tức:
 - Bước 2: Nhập thông tin vào những trường cần thiết (tên danh mục, trạng thái, mô tả...) sau đó click Lưu để hoàn tất.
 Danh mục tin tức sau khi được tạo sẽ xuất hiện tại [Danh sách danh mục tin tức](https://new.nhanh.vn/website/article/categories).
 
-## 2. Thêm mới tin tức:
+## Thêm mới tin tức:
 
 Bước 1: Truy cập vào Website / Tin tức / click Thêm mới, chọn Thêm mới tin tức, hoặc truy cập [tại đây](https://new.nhanh.vn/website/article/index?tab=add)
 
@@ -39,13 +39,13 @@ Sau khi nhập nội dung bài viết, doanh nghiệp click Lưu để hoàn t�
 
 Bài viết sau khi được tạo mới sẽ xuất hiện tại [Danh sách tin tức](https://new.nhanh.vn/website/article/index).
 
-## 3. Danh sách danh mục tin tức:
+## Danh sách danh mục tin tức:
 
 Là nơi chứa toàn bộ các danh mục tin tức của doanh nghiệp, giúp doanh nghiệp có thể sửa, xóa các danh mục tin tức đã tạo trước đó.
 
 Để truy làm việc tại Danh sách danh mục tin tức, doanh nghiệp truy cập lần lượt vào Website / Tin tức / click nút Hành động, chọn Danh sách danh mục tin tức, hoặc truy cập [tại đây](https://new.nhanh.vn/website/article/categories).
 
-## 4. Danh sách tin tức:
+## Danh sách tin tức:
 
 Là nơi chứa toàn bộ các bài viết tin tức của doanh nghiệp, giúp doanh nghiệp có thể sửa, xóa các bài viết đã tạo trước đó.
 
