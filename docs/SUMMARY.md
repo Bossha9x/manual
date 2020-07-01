@@ -104,6 +104,9 @@
 * [Banner](website/banner.md)
 * [Album](website/album.md)
 * [Liên hệ](website/lien-he.md)
+* Quản lý mã nhúng
+  * [Thêm hiệu ứng bông tuyết, hoa đào rơi trên website](website/quan%20ly%20ma%20nhung%20tren%20website/cach-su-dung-vchat.md)
+  * [Tích hợp Facebook chat trên Webiste (miễn phí)](website/quan%20ly%20ma%20nhung%20tren%20website/tich-hop-facebook-chat-tren-website.md)
 
 
 
