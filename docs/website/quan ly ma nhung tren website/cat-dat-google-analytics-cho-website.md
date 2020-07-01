@@ -24,8 +24,8 @@ Bạn phải đồng ý với các điều kiện sử dụng của Google Analy
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/cai-dat-google-analytics5.png)
 
-Bước 4: Nhúng đoạn mã vừa copy vào trang website [tại đây](https://new.nhanh.vn/website/script/index?tab=add)
+**Bước 4:** Nhúng đoạn mã vừa copy vào trang website [tại đây](https://new.nhanh.vn/website/script/index?tab=add)
 
-Bước 5: Truy cập vào website, sau đó mở thêm tab mới trên trình duyệt để truy cập vào [Google Analytic](https://analytics.google.com/analytics/web/provision/?authuser=0#/provision), nếu thấy Google ghi nhận số người đang hoạt động, nghĩa là bạn đã cài đặt Google Analytic thành công
+**Bước 5:** Truy cập vào website, sau đó mở thêm tab mới trên trình duyệt để truy cập vào [Google Analytic](https://analytics.google.com/analytics/web/provision/?authuser=0#/provision), nếu thấy Google ghi nhận số người đang hoạt động, nghĩa là bạn đã cài đặt Google Analytic thành công
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/cai-dat-google-analytics6.png)
