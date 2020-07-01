@@ -78,7 +78,12 @@
   * [Biên bản bàn giao đơn hàng](don-hang/quy-trinh-xu-ly-don-hang/bien-ban-ban-giao-don-hang-cho-hang-van-chuyen.md)
   * [Theo dõi đơn hàng và xử lý các vấn đề phát sinh](don-hang/quy-trinh-xu-ly-don-hang/theo-doi-don-hang-va-xu-ly-cac-van-de-phat-sinh.md)
   * [Đối soát thanh toán đơn hàng](don-hang/quy-trinh-xu-ly-don-hang/doi-soat-thanh-toan-don-hang.md)
-* [Danh sách đơn hàng](don-hang/danh-sach-don-hang.md)
+* Danh sách đơn hàng
+  * [Danh sách đơn hàng](don-hang/danh-sach-don-hang/danh-sach-don-hang.md)
+  * [Bộ lọc đơn hàng](don-hang/danh-sach-don-hang/bo-loc-don-hang.md)
+  * [Trạng thái đơn hàng](don-hang/danh-sach-don-hang/trang-thai-don-hang.md)
+  * [Chi tiết đơn hàng](don-hang/danh-sach-don-hang/Chi-tiet-don-hang.md)
+  * [Nguyên nhân khách hủy đơn hàng](don-hang/danh-sach-don-hang/nguyen-nhan-khach-huy-don-hang.md)
 * [Nguồn đơn hàng](don-hang/nguon-don-hang.md)
 * [Khiếu nại đơn hàng](don-hang/khieu-nai-don-hang.md)
 
