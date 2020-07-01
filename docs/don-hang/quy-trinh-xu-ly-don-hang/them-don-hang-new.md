@@ -62,13 +62,13 @@ Doanh nghiệp click vào tên file mẫu: Logistics_Import_Order.xlsm để t�
 
 Giao diện làm việc của tab này hoàn toàn giống với tab "Dùng hãng vận chuyển" và cũng có 2 cách để thêm mới đơn hàng.
 
-### Đối với đơn hàng chưa chốt được sản phẩm: Sử dụng tính năng Đơn hàng nháp**
+### Đối với đơn hàng chưa chốt được sản phẩm: Sử dụng tính năng Đơn hàng nháp
 
 - Đơn nháp là đơn chỉ yêu cầu điền **số điện thoại khách hàng**, không yêu cầu điền đầy đủ các thông tin khác.
 
 Tính năng này phù hợp cho bộ phận CSKH đang chat / gọi điện với khách, chưa xin được đầy đủ thông tin, chưa chốt được sản phẩm.
 
-- Tại giao diện thêm đơn hàng, bên phải ô nhập Số điện thoại khách hàng, sẽ có thêm 1 icon Lưu đơn nháp, click vào icon này sẽ lưu đơn hàng dưới dạng đơn nháp.
+- Tại giao diện thêm đơn hàng, bên phải ô nhập Số điện thoại khách hàng, sẽ có thêm 1 icon Lưu đơn nháp, bấm vào icon này sẽ lưu đơn hàng dưới dạng đơn nháp.
 
 ![Giao diện thêm mới đơn hàng nháp](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/them-don-hang-5.png)
 
@@ -78,7 +78,7 @@ Tính năng này phù hợp cho bộ phận CSKH đang chat / gọi điện vớ
 - Đơn nháp vẫn có thể sửa / xác nhận lại thông tin như 1 đơn hàng bình thường.
 - Tính năng này không mở mặc định cho doanh nghiệp, xin quý khách vui lòng liên hệ nhân viên CSKH của Nhanh.vn để được tư vấn và hỗ trợ bật tính năng này.
 
-Sau khi thêm đơn hàng thành công, doanh nghiệp chuyển sang bước [Xác nhận đơn hàng](https://manual.nhanh.vn/don-hang/quy-trinh-xu-ly-don-hang/xac-nhan-don-hang).
+Sau khi thêm đơn hàng thành công, bạn chuyển sang bước [Xác nhận đơn hàng](https://manual.nhanh.vn/don-hang/quy-trinh-xu-ly-don-hang/xac-nhan-don-hang).
 
 **Bạn có thể tham khảo video hướng dẫn thêm mới đơn hàng online trực tiếp trên phần mềm tại đây:**
 {% youtube src="link" %}{% endyoutube %}
