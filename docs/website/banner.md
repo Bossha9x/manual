@@ -4,7 +4,7 @@
 
 Module này gồm 02 nghiệp vụ cơ bản là [Thêm mới banner](https://new.nhanh.vn/website/banner/index?tab=add) và [Quản lý danh sách banner](https://new.nhanh.vn/website/banner/index)
 
-## 1. Thêm mới banner:
+## Thêm mới banner:
 
 Để thêm mới banner, doanh nghiệp truy cập vào Website / Banner / Thêm mới banner hoặc truy cập [tại đây](https://new.nhanh.vn/website/banner/index?tab=add).
 
@@ -24,20 +24,20 @@ Sau khi nhập thông tin cần thiết, doanh nghiệp click Lưu để hoàn t
 
 Banner sau khi được thêm mới sẽ xuất hiện tại trang [Danh sách banner](https://new.nhanh.vn/website/banner/index).
 
-## 2. Danh sách banner: 
+## Danh sách banner: 
 
 Là nơi liệt kê toàn bộ các banner của doanh nghiệp, giúp doanh nghiệp sửa xóa các banner đã tạo trước đó.
 
 Để làm vào Danh sách banner, doanh nghiệp truy cập lần lượt vào Website/ Banner hoặc truy cập [tại đây](https://new.nhanh.vn/website/banner/index).
 
-**2.1. Bộ lọc:**
+**Bộ lọc:**
 
 - ID: Cho phép lọc theo ID của banner (mỗi banner được khởi tạo trên hệ thống được mặc định tạo ra 01 ID nhất định để phân biệt).
 - Tên: Cho phép lọc theo tên banner.
 - Vị trí: Cho phép lọc theo từng vị trí hiển thị banner (số lượng và vị trí hiển thị tùy thuộc vào giao diện website mà doanh nghiệp lựa chọn) trên website.
 - Trạng thái: Cho phép lọc theo trạng thái của banner.
 
-**2.2. Thông tin trong Danh sách banner:**
+**Thông tin trong Danh sách banner:**
 
 - ID: Hiển thị ID của banner.
 - Vị trí: Hiển thị thông tin vị trí của banner trên website.
