@@ -19,7 +19,9 @@ Trong trường hợp đã nhúng mà chưa thấy mã hoạt động, bạn cli
 
 ## 3. Các hướng dẫn liên quan:
 
-- Hướng dẫn add Google Analytics
-- Tích hợp BOX Chat với Fanpage trên website
-- Tích hợp chat Zalo trên website
-- Cài đặt mã nhúng Facebook Feed và Google Feed để chạy chiến dịch Re Marketing (tiếp thị lại)
+- [Hướng dẫn add Google Analytics](https://manual.nhanh.vn/website/quan-ly-ma-nhung/cat-dat-google-analytics-cho-website)
+- [Cài đặt facebook chat](https://manual.nhanh.vn/website/quan-ly-ma-nhung/tich-hop-facebook-chat-tren-website)
+- [Tích hợp chat Zalo trên website](https://manual.nhanh.vn/website/quan-ly-ma-nhung/tich-hop-chat-zalo-vao-website)
+- [Sử dụng vchat](https://manual.nhanh.vn/website/quan-ly-ma-nhung/cach-su-dung-vchat)
+- [Cài đặt Google Webmaster Tool ](https://manual.nhanh.vn/website/quan-ly-ma-nhung/cai-dat-google-webmaster-tool)
+- []()
