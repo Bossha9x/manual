@@ -105,7 +105,7 @@
 * [Album](website/album.md)
 * [Liên hệ](website/lien-he.md)
 * Quản lý mã nhúng
-  * [Cài đặt Facebook chat trên Webiste](website/quan%20ly%20ma%20nhung%20tren%20website/tich-hop-facebook-chat-tren-website.md)
+  * [Cài đặt Facebook chat](website/quan%20ly%20ma%20nhung%20tren%20website/tich-hop-facebook-chat-tren-website.md)
   * [Cách sử dụng vchat](website/quan%20ly%20ma%20nhung%20tren%20website/cach-su-dung-vchat.md)
   * [Cài đặt Google Analytics](website/quan%20ly%20ma%20nhung%20tren%20website/cat-dat-google-analytics-cho-website.md)
   * [Cài đặt chat Zalo](website/quan%20ly%20ma%20nhung%20tren%20website/Tich-hop-chat-zalo-vao-website.md)
