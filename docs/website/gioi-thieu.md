@@ -6,7 +6,7 @@ Website là module dành cho khách hàng sử website do Nhanh.vn cung cấp. M
 
 | STT | Công Việc | Nội Dung | Link |
 |-----|-----------|----------|------|
-| 1 | Cài đặt ban đầu | Cài đặt Logo, Favico, chất lượng hình ảnh...| Link |
+| 1 | Cài đặt ban đầu | Cài đặt Logo, Favico, chất lượng hình ảnh...| [Link ](https://github.com/nhanhapi/manual/blob/master/docs/website/cat-dat-website.md)|
 | 2 | Nội dung website | Cài đặt và thiết lập các nội dung hiển thị lên website | Link |
 | 3 | Menu | Cài đặt menu danh mục sản phẩm, tin tức, liên hệ... | Link |
 | 4 | Banner | Thêm mới banner, vị trí banner, kích thước banner...| Link |
