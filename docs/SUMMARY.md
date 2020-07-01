@@ -112,6 +112,11 @@
   * [Cài đặt chat Zalo](website/quan%20ly%20ma%20nhung%20tren%20website/Tich-hop-chat-zalo-vao-website.md)
   * [Cài đặt Google Webmaster Tool](website/quan%20ly%20ma%20nhung%20tren%20website/Cai-dat-google-webmaster-tool.md)
   * [Thêm hiệu ứng bông tuyết, hoa đào rơi](website/quan%20ly%20ma%20nhung%20tren%20website/cach-them-hieu-ung-bong-tuyet-hoa-dao-roi-tren-website.md)
+* Tên miền
+  * [Giới thiệu](website/Ten%20mien/Gioi-thieu.md) 
+  * [Cách trỏ tên miền](website/Ten%20mien/Cach-tro-ten-mien.md)
+  * [Đăng ký website thương mại điện tử với Bộ Công Thương](website/Ten%20mien/Dang-ky-website-thuong-mai-dien-tu-voi-Bo-Cong-Thuong.md)
+  * [Cài đặt email ten@tenmien](website/Ten%20mien/cai-dat-email-ten%40tenmien.md)
 
 
 ## Khuyến mãi
