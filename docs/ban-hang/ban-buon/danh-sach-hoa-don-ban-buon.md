@@ -43,4 +43,4 @@ Giao diện của trang chi tiết hóa đơn bán buôn cũng tương tự như
 
 Tại sao khi trả hàng bán Buôn lại không có nút tích đổi trả sản phẩm luôn trong trang chi tiết hoá đơn như bán Lẻ mà lại phải thao tác Trả hàng 2 lần?
 
-- Thường bán buôn thì không cho đổi hàng nên phần mềm sẽ không có.
+- Thường bán buôn thì không cho đổi trả hàng nên phần mềm sẽ không có tính năng này.
