@@ -1,8 +1,6 @@
 # Trả hàng cho nhà cung cấp
 
-Thêm phiếu trả hàng nhà cung cấp cho phép bạn thực hiện nghiệp vụ xuất trả hàng hóa, sản phẩm cho nhà cung cấp
-
-Thao tác này thường được dùng khi bạn muốn trả lại nhà cung cấp các sản phẩm tồn kho lâu ngày hoặc hàng lỗi, trả hàng ký gửi, tạo phiếu trả nhà cung cấp để ghi nhận việc trả hàng.
+Mục này sẽ hỗ trợ bạn thực hiện nghiệp vụ xuất trả hàng hóa, sản phẩm cho nhà cung cấp, thường được dùng khi bạn muốn trả lại nhà cung cấp các sản phẩm tồn kho lâu ngày hoặc hàng lỗi, trả hàng ký gửi, tạo phiếu trả nhà cung cấp để ghi nhận việc trả hàng.
 
 Để thêm phiếu trả nhà cung cấp, bạn truy cập lần lượt vào Kho hàng / click Thêm mới, chọn Trả Xuất kho, hoặc truy cập [tại đây](https://new.nhanh.vn/inventory/bill/export)
 
