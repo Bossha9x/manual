@@ -12,24 +12,9 @@ Giao diện làm việc của module Danh sách hóa đơn bán lẻ như sau:
 Bộ lọc sẽ được chia theo từng cột như sau:
  
  
-![](https://raw.githubusercontent.com/hieunguyenduc-nhanh/manual/master/docs/ban-hang/img/danh-sach-hoa-don-ban-le.jpg)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/ban-hang/img/bo-loc-ban-le1.jpg)
 
-Tên | Ý nghĩa
--------|--------
-Doanh nghiệp | Chọn doanh nghiệp muốn lọc danh sách hóa đơn bán lẻ.
-ID hoá đơn | Lọc theo ID của hóa đơn bán lẻ. Mỗi hóa đơn bán lẻ được hệ thống gắn cho 1 ID riêng.
-Sản phẩm | Lọc theo tên sản phẩm
-Khách hàng | Lọc theo tên khách mua hàng.
-Từ ngày - Đến ngày | Lọc theo khoảng thời gian lập hóa đơn bán lẻ
-Cửa hàng | Lọc theo cửa hàng nếu doanh nghiệp có từ 2 Cửa hàng trở lên
-Người tạo | Lọc theo tên lập hóa đơn bán lẻ.
-IMEI | Lọc theo số IMEI (áp dụng cho sản phẩm có IMEI).
-ID đơn hàng | Lọc theo ID đơn đặt hàng từ module [Đơn hàng.](https://nhanh.vn/order/manage/index)
-Đặc điểm | Lọc theo đặc điểm của hóa đơn bán lẻ: Có/Không có chiết khấu, Có quẹt thẻ, Có thanh toán công nợ...
-Số lần in hóa đơn | Cho phép lọc những hóa đơn bán lẻ có số lượng in bao nhiêu (lớn hơn, nhỏ hơn, hoặc bằng một giá trị nào đó).
-Hạn thanh toán | Lọc theo khoảng thời gian hẹn thanh toán của hóa đơn bán lẻ.
-Ghi chú | Lọc theo những mô tả, ghi chú thêm về hóa đơn bán lẻ.
-Nhân viên bán hàng | Lọc theo tên nhân viên phụ trách bán hàng,tư vẫn về sản phẩm trong hóa đơn bán lẻ.
+
 
 ### Danh sách bảng hoá đơn bán lẻ:
 
