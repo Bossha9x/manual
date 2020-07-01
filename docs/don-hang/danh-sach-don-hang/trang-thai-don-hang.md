@@ -22,6 +22,7 @@
 
 
 **Lưu ý:** 
+
 Trên lịch trình của hãng vận chuyển, có thể hãng vận chuyển báo đã chuyển hoàn cho doanh nghiệp tuy nhiên trên hệ thống Nhanh.vn vẫn để ở trạng thái "Đang chuyển hoàn". Để tránh thất thoát hàng hóa qua quá trình vận chuyển. Khi doanh nghiệp nhận được sản phẩm thực tế hoàn lại từ hãng vận chuyển, doanh nghiệp cần đổi trạng thái thành "Đã chuyển hoàn" bằng cách: 
 - Cách 1: Lập biên bản chuyển hoàn (biên bản bàn giao hàng hóa từ hãng vận chuyển -> doanh nghiệp).
 - Cách 2: Cập nhật trạng thái "Đã chuyển hoàn" trên hệ thống. Đồng thời với thao tác đó, hệ thống tự động trừ đi số lượng sản phẩm "Đang tạm giữ" (để chuyển hàng) nhập lại vào kho/ cửa hàng đã xuất ra (số lượng nhập lại được tính vào trạng thái "Có thể bán").
