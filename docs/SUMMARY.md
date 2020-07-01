@@ -58,11 +58,11 @@
 
 * [Giới thiệu](ban-hang/gioi-thieu.md)
 * Bán lẻ
-  * [Thêm hóa đơn bán lẻ](ban-hang/them-hoa-don-ban-le.md)
-  * [Danh sách hóa đơn bán lẻ](ban-hang/danh-sach-hoa-don-ban-le.md)
+  * [Thêm hóa đơn bán lẻ](ban-hang/ban-le/them-hoa-don-ban-le.md)
+  * [Danh sách hóa đơn bán lẻ](ban-hang/ban-le/danh-sach-hoa-don-ban-le.md)
 * Bán buôn
-  * [Thêm hóa đơn bán buôn](ban-hang/them-hoa-don-ban-buon.md)
-  * [Danh sách hóa đơn bán buôn](ban-hang/danh-sach-hoa-don-ban-buon.md)
+  * [Thêm hóa đơn bán buôn](ban-hang/ban-buon/them-hoa-don-ban-buon.md)
+  * [Danh sách hóa đơn bán buôn](ban-hang/ban-buon/danh-sach-hoa-don-ban-buon.md)
 * [Hóa đơn nháp](ban-hang/hoa-don-nhap.md)
 * [Nợ quà tặng](ban-hang/no-qua-tang.md)
 * [Tìm hóa đơn](ban-hang/tim-hoa-don.md)
@@ -104,7 +104,7 @@
 * [Banner](website/banner.md)
 * [Album](website/album.md)
 * [Liên hệ](website/lien-he.md)
-* [ Quản lý mã nhúng](website/quan ly ma nhung tren website/cach-su-dung-vchat.md)
+
 
 
 ## Khuyến mãi
