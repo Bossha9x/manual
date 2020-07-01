@@ -24,4 +24,4 @@ Trong trường hợp đã nhúng mà chưa thấy mã hoạt động, bạn cli
 - [Tích hợp chat Zalo trên website](https://manual.nhanh.vn/website/quan-ly-ma-nhung/tich-hop-chat-zalo-vao-website)
 - [Sử dụng vchat](https://manual.nhanh.vn/website/quan-ly-ma-nhung/cach-su-dung-vchat)
 - [Cài đặt Google Webmaster Tool ](https://manual.nhanh.vn/website/quan-ly-ma-nhung/cai-dat-google-webmaster-tool)
-- []()
+- [Thêm hiệu ứng bông tuyết, hoa đào rơi trên website](https://manual.nhanh.vn/website/quan-ly-ma-nhung/them-hieu-ung-bong-tuyet-hoa-dao-roi-tren-website)
