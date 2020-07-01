@@ -15,7 +15,7 @@ Trong đó:
 - Tên website trong quá trình thiết lập được gắn có dạng: Tên doanh nghiệp + .store.nhanh.vn: taivt.store.nhanh.vn
 - Các danh mục cơ bản trong một website:
 
-![])(https://github.com/nhanhapi/manual/blob/master/docs/website/img/trang-chu.png)
+![])(https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/trang-chu.png)
 
 - Trang chủ: Những nội dung hiển thị trên trang chủ.
 - Trang thanh toán: Những nội dung hiển thị trong trang thanh toán khi khách hàng đặt hàng online.
