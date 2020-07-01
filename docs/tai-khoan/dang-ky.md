@@ -14,9 +14,6 @@ Tại bước này bạn có thể đăng ký sử dụng đồng thời cả ph
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/tai-khoan/img/tai-khoan-3.PNG)
 
-Video hướng dẫn chi tiết:
- 
-{% youtube src="https://www.youtube.com/watch?v=LymV4oRaLUw" %}{% endyoutube %} 
  
 Như vậy, Nhanh.vn đã thực hiện xong phần hướng dẫn Đăng ký tài khoản.
 
