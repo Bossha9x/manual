@@ -26,9 +26,11 @@ Giao diện Thêm đơn hàng được chia thành 2 tab, tùy theo mục đích
   - Sau khi nhập thông tin khách hàng và sản phẩm, hệ thống sẽ căn cứ vào địa chỉ của khách và khối lượng sản phẩm, giá trị đơn hàng để tính ra phí vận chuyển của các hãng tương ứng. Doanh nghiệp có thể lựa chọn hãng vận chuyển phù hợp nhất với mục đích sử dụng của mình và khách hàng.
   
 - **Thông tin thanh toán**
-Nhập thông tin thanh toán (trước/ đặt cọc) của đơn hàng, mức chiết khấu hoặc mã coupon nếu có 
-- Tiền đặt cọc: Nhập số tiền mặt đặt cọc và chọn tài khoản ghi nhận số tiền mặt đã đặt cọc (áp dụng với những doanh nghiệp dùng module kế toán).
-- Tiền chuyển khoản: Nhập số tiền khách hàng chuyển khoản trước cho đơn hàng và tài khoản ghi nhận số tiền chuyển khoản đó (áp dụng với những doanh nghiệp dùng module kế toán).
+
+Nhập thông tin thanh toán (trước/ đặt cọc) của đơn hàng, mức chiết khấu hoặc mã coupon nếu có.
+
+  - Tiền đặt cọc: Nhập số tiền mặt đặt cọc và chọn tài khoản ghi nhận số tiền mặt đã đặt cọc (áp dụng với những doanh nghiệp dùng module kế toán).
+  - Tiền chuyển khoản: Nhập số tiền khách hàng chuyển khoản trước cho đơn hàng và tài khoản ghi nhận số tiền chuyển khoản đó (áp dụng với những doanh nghiệp dùng module kế toán).
 
 - **Thông tin đơn hàng**
   - Có 3 tùy chọn sau khi lưu dữ liệu: Tiếp tục thêm đơn hàng, Về danh sách đơn hàng, Về trang chi tiết đơn hàng.
