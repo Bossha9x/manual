@@ -31,7 +31,7 @@ Tích chọn Thẻ HTML, copy đoạn mã bên trong dấu ngoặc kép (content
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/tich-hop-google-webmaster3.png)
 
-## Xác minh
+### Xác minh
 
 * Quay trở lại trang Google, click Xác minh. Có thông báo như hình dưới là thành công. Click Tiếp tục
 
