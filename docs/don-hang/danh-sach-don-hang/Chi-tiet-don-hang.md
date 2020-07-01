@@ -20,11 +20,15 @@ Tab lịch trình vận chuyển thể hiện lịch trình vận chuyển của
 
 ![Giao diện làm việc của tab Lịch trình đơn hàng](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/chi-tiet-don-hang-2.png)
 
+--> Xem thêm [Trạng thái đơn hàng](https://manual.nhanh.vn/don-hang/danh-sach-don-hang/trang-thai-don-hang)
+
 ## In và đóng gói
 
 **Tab này cho phép doanh nghiệp in phiếu gửi đơn hàng với nhiều kích cỡ, loại giấy khác nhau.**
 
 ![Giao diện làm việc của tab In và đóng gói](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/chi-tiet-don-hang-3.png)
+
+--> Xem hướng dẫn [In và đóng gói](https://manual.nhanh.vn/don-hang/quy-trinh-xu-ly-don-hang/in-va-dong-goi-don-hang)
 
 ## Thông tin thanh toán
 
@@ -39,6 +43,10 @@ Tab thông tin khiếu nại cho phép doanh nghiệp quản lý và thêm yêu 
 Giao diện làm việc của tab này như sau:
 
 ![Giao diện làm việc của tab Thông tin khiếu nại](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/chi-tiet-don-hang-4.png)
+
+--> Xem hướng dẫn [Khiếu nại đơn hàng](https://manual.nhanh.vn/don-hang/khieu-nai-don-hang)
+
+
 
 Để thêm khiếu nại, người dùng bấm nút vào nút ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/chi-tiet-don-hang-5.png)  để hiện ra bảng thêm khiếu nại:
 
