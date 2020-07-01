@@ -49,9 +49,7 @@
 
 ![Điền mã khách hàng Vietnam Post](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-vietnam-post.jpg)
 
-
 ---
-
 
 ### Kết nối J&T Express
 
@@ -61,9 +59,7 @@
 
 ![Điền mã khách hàng J&T Express](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-jt-express.jpg)
 
-
 ---
-
 
 ### Kết nối Ahamove
 
@@ -71,9 +67,7 @@
 
 ![Điền số điện thoại đăng nhập Ahamove](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-ahamove.jpg)
 
-
 ---
-
 
 ### Kết nối EcoTrans
 
@@ -86,10 +80,7 @@
 
 ![Điền token EcoTrans](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-ecotrans-1a.jpg)
 
-*
-
 ---
-
 
 ### Kết nối Giao hàng tiết kiệm
 
