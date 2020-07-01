@@ -5,7 +5,7 @@ Nhằm giúp các doanh nghiệp kiểm soát, theo dõi không chỉ về doanh
 
 Được chia làm 10 module báo cáo tổng và trong đó có khoảng 80 báo cáo chi tiết tương ứng với mỗi module sẽ là công cụ hữu ích và đắc lực đồng hành cùng doanh nghiệp của bạn.
 
-**Danh sách chi tiết các loại báo cáo tại đây**
+**Danh sách chi tiết các loại báo cáo**
 
 ## Báo cáo Doanh thu 
 - Tăng trưởng doanh thu
