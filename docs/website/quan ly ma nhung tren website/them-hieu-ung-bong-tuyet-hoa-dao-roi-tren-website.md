@@ -6,19 +6,16 @@ Bước 2: Paste 1 trong 3 đoạn mã này vào (trạng thái: Hoạt động;
 
 **Tuyết rơi (bông tuyết nhỏ):**
 
-<script type="text/javascript" src="//nhanh.vn/js/events/snow.js"></script>
 
-![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/hieu-ung-bong-tuyet-nho.png)
+![<script type="text/javascript" src="//nhanh.vn/js/events/snow.js"></script>](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/hieu-ung-bong-tuyet-nho.png)
 
 **Tuyết rơi (bông tuyết lớn):**
 
 
-<script type="text/javascript" src="//nhanh.vn/js/events/snow2.js"></script>
-
-![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/hieu-ung-bong-tuyet-lon.png)
+![<script type="text/javascript" src="//nhanh.vn/js/events/snow2.js"></script>](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/hieu-ung-bong-tuyet-lon.png)
 
 **Hoa đào rơi:**
 
-<script type="text/javascript" src="//nhanh.vn/js/events/newyear.js"></script>
 
-![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/hieu-ung-hoa-dao-roi.png)
+
+![<script type="text/javascript" src="//nhanh.vn/js/events/newyear.js"></script>](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/hieu-ung-hoa-dao-roi.png)
