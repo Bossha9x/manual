@@ -18,24 +18,18 @@ Từ những bước phát sinh trong thực tế nói trên, phần mềm có t
 
 
 ## In phiếu nhập nhà cung cấp
+Sau khi thêm mới phiếu nhập kho nhà cung cấp, bạn có thể vào Danh sách phiếu XNK và Danh sách sản phẩm XNK để kiểm tra lại. Sau đó, nếu muốn in phiếu, bạn có thể thực hiện thao tác như sau:
 
-![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/phieu-nhap-nha-cung-cap1.png)
 
-Sau khi thêm mới phiếu nhập kho nhà cung cấp, bạn có thể vào Danh sách phiếu XNK và Danh sách sản phẩm XNK để kiểm tra lại
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/ezgif.com-gif-maker%20(5).gif)
 
-![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/danh-sach-phieu-xnk.png)
 
-Danh sách phiếu XNK
 
-![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/danh-sach-sp-xnk.png)
-
-Danh sách sản phẩm XNK
 ## In tem/mã vạch sản phẩm sau khi nhập nhà cung cấp
-Sản phẩm sau khi nhập về kho, cần được dán tem/mã vạch. Để in đúng số tem cần thiết cho mỗi lần nhập kho, bạn thao tác như sau:
-
-Vào Danh sách phiếu XNK / tìm đến phiếu Nhập nhà cung cấp vừa tạo / click nút ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/nut.png), chọn In mã vạch sản phẩm trong phiếu. Chi tiết hướng dẫn in mã vạch, bạn tham khảo tại đây.
+Sản phẩm sau khi nhập về kho, cần được dán tem/mã vạch. Để in đúng số tem cần thiết cho mỗi lần nhập kho, bạn làm các thao tác tại nút ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/nut.png) tương tự như in phiếu nhập nhà cung cấp.
 
 ## Một số lưu ý:
 - Khi bạn thêm mới sản phẩm và có điền số lượng, hệ thống sẽ tự tạo một phiếu nhập nhà cung cấp với số lượng tương ứng.
+- Khi bạn điển sản phẩm trong phiếu xuất nhập kho, hệ thống tự động hiểu là 1 dù bạn có không điền số lượng.
 
 Trong trường hợp  muốn trả hàng cho nhà cung cấp, bạn xem hướng dẫn [tại đây](https://github.com/nhanhapi/manual/blob/master/docs/kho-hang/tra-hang-cho-nha-cung-cap.md). 
