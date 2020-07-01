@@ -2,7 +2,7 @@
 
 Doanh nghiệp có thể tùy biến thanh menu trên website do Nhanh.vn cung cấp.
 
-## 1. Thêm mới menu:
+## Thêm mới menu:
 
 Doanh nghiệp truy cập lần lượt vào Website / Danh sách Menu / click Thêm mới, hoặc truy cập [tại đây](https://new.nhanh.vn/website/menu/index?tab=add)
 
@@ -26,7 +26,7 @@ Link menu: Link khi click vào menu
 Target: Lựa chọn click vào menu sẽ ở tab hiện tại của trình duyệt, hoặc mở sang 1 tab khác
 Trạng thái: trạng thái hiển thị menu: hiển thị hoặc ẩn
 
-## 2. Danh sách menu: 
+## Danh sách menu: 
 
 Menu sau khi được thêm mới, sẽ hiển thị tại Danh sách menu [tại đây](https://new.nhanh.vn/website/menu/index)
 
