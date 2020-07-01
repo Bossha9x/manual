@@ -57,12 +57,12 @@ Vào trang quản trị tên miền caphocsinh.vn, thêm 2 giá trị sau:
 
 # Trỏ tên miền từ Google domain
 
-Bước 1: Bạn hãy truy cập vào https://domains.google.com/ và đăng nhập với tài khoản Google
+**Bước 1:** Bạn hãy truy cập vào https://domains.google.com/ và đăng nhập với tài khoản Google
 
-Bước 2: Khai báo IP của Nhanh.vn: Điền đoạn IP "104.155.234.35" vào ô Địa chỉ IPv4 sau đó click Thêm
+**Bước 2:** Khai báo IP của Nhanh.vn: Điền đoạn IP "104.155.234.35" vào ô Địa chỉ IPv4 sau đó click Thêm
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/cach-tro-ten-mien-7.PNG)
 
-Bước 3: Thêm các giá trị DNS như hình
+**Bước 3:** Thêm các giá trị DNS như hình
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/cach-tro-ten-mien-8.PNG)
