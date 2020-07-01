@@ -48,7 +48,7 @@ Giao diện làm việc của tab này như sau:
 
 
 **Lưu ý:**
-- Đối với đơn hàng tự vận chuyển chỉ 
+- Đối với đơn hàng tự vận chuyển sẽ không có tab Lịch trình và tab Thanh toán
 
 Để thêm khiếu nại, người dùng bấm nút vào nút ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/chi-tiet-don-hang-5.png)  để hiện ra bảng thêm khiếu nại:
 
