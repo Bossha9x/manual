@@ -19,5 +19,8 @@ Mã: <script type="text/javascript" src="//nhanh.vn/js/events/snow2.js"></script
 
 **Hoa đào rơi:**
 
+Mã: <script type="text/javascript" src="//nhanh.vn/js/events/newyear.js"></script>
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/hieu-ung-hoa-dao-roi.png)
 
 
