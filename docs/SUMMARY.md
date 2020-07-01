@@ -135,7 +135,7 @@
 
 * [Giới thiệu](vpage/gioi-thieu.md)
 * Các bước đăng nhập
-  * [Đăng nhập và cài đặt ban đầu](vpage/cac-buoc-dang-nhap/cai-dat-chung.md)
+  * [Cài đặt chung](vpage/cac-buoc-dang-nhap/cai-dat-chung.md)
   * [Quản lý comment,inbox](vpage/cac-buoc-dang-nhap/quan-ly-cmt-inbox.md)
   * [Quản lý đơn hàng](vpage/cac-buoc-dang-nhap/xu-ly-don-hang.md)
 * [Câu hỏi thường gặp](vpage/cau-hoi-thuong-gap.md)
