@@ -4,7 +4,7 @@ Trang chi tiết đơn hàng giúp bạn theo dõi toàn bộ thông tin chi ti�
 
 Để vào trang chi tiết đơn hàng, bạn bấm nút theo từng ID đơn hàng cụ thể tại cột ID đơn hàng trong [Danh sách đơn hàng](https://new.nhanh.vn/order/manage/index).
 
-Chi tiết ID đơn hàng bao gồm 5 tab: Thông tin, Lịch trình,  In & Đóng gói, Thanh toán, Khiếu nại.
+Chi tiết đơn hàng bao gồm 5 tab đầy đủ: Thông tin, Lịch trình,  In & Đóng gói, Thanh toán, Khiếu nại.
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/chi-tiet-don-hang-9.png)
 
@@ -47,6 +47,8 @@ Giao diện làm việc của tab này như sau:
 --> Xem hướng dẫn [Khiếu nại đơn hàng](https://manual.nhanh.vn/don-hang/khieu-nai-don-hang)
 
 
+**Lưu ý:**
+- Đối với đơn hàng tự vận chuyển chỉ 
 
 Để thêm khiếu nại, người dùng bấm nút vào nút ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/chi-tiet-don-hang-5.png)  để hiện ra bảng thêm khiếu nại:
 
