@@ -22,3 +22,7 @@ Tại thời điểm viết bài này, Zoho đang cung cấp 1 gói Free cho 25 
 **Bước 5:** Nhập thông tin cho email tên miền muốn tạo, sau đó bấm nút **OK** để hoàn tất.
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/cai-dat-email-ten%40tenmien4.PNG)
+
+- Các email tiếp theo làm tương tự.
+
+**Bước 6:** Sau khi tạo email xong, doanh nghiệp vào [https://accounts.zoho.com/signin](https://accounts.zoho.com/signin) để đăng nhập và sử dụng email.
